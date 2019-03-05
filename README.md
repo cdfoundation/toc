@@ -14,4 +14,11 @@ The role of the CDF Technical Operating Committee (TOC) is to facilitate communi
 
 ## Members
 
-TBD
+* Kohsuke Kawaguchi (Jenkins)
+* TBD (Jenkins-X)
+* Dan Lorenc (Tekton)
+* TBD (Spinnaker)
+
+## Communication
+
+The TOC communication happens via a public mailing list: https://lists.cd.foundation/g/cdf-toc
