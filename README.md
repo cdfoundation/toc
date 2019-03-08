@@ -17,7 +17,7 @@ The role of the CDF Technical Operating Committee (TOC) is to facilitate communi
 * Kohsuke Kawaguchi (Jenkins)
 * TBD (Jenkins-X)
 * Dan Lorenc (Tekton)
-* TBD (Spinnaker)
+* Andy Glover (Spinnaker)
 
 ## Communication
 
