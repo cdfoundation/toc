@@ -1,6 +1,6 @@
 # CDF TOC
 
-The role of the CDF Technical Operating Committee (TOC) is to facilitate communication and collaboration among the Technical Projects. The TOC will be responsible for:
+The role of the CDF Technical Oversight Committee (TOC) is to facilitate communication and collaboration among the Technical Projects. The TOC will be responsible for:
 
 - coordinating collaboration among Technical Projects, including development of an overall technical vision for the community;
 
