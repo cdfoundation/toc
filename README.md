@@ -15,7 +15,7 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 ## Members
 
 * Kohsuke Kawaguchi (Jenkins)
-* TBD (Jenkins-X)
+* James Strachan (Jenkins-X)
 * Dan Lorenc (Tekton)
 * Andy Glover (Spinnaker)
 
