@@ -22,3 +22,7 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 ## Communication
 
 The TOC communication happens via a public mailing list: https://lists.cd.foundation/g/cdf-toc
+
+The meeting minutes are here: https://docs.google.com/document/d/1uBHar55fTInWF9Li4t0lyG3tTC8BRLU0FfBfsgk_Jrs/edit#
+
+The public calendar is here: https://calendar.google.com/calendar?cid=amJqM250cjJmdGZyMmRxZDNwMmppYjJsMWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
