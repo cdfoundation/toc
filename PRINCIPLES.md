@@ -49,3 +49,7 @@ In order to “foster and sustain the ecosystem of open-source, vendor neutral p
 The whole should be greater than the sum of all parts. A successful CDF should provide be a single place to look for best practices, guidance and documentation as well as tooling and projects. Customers looking to improve their delivery practices should have to look no further than the resources provided by the CDF, regardless of their software stack, platform or industry.
 
 **Benefits**: The CDF should not be a "grab-bag" of projects, and projects do not need to be hosted in the CDF to interoperate with projects that are in the CDF. Projects in the CDF should either provide a unique benefit to the CDF or uniquely benefit from being in it.
+
+## Revision History
+* Version 1.0: 2019-03-29
+    * Approved by TOC on 2019-??-??
