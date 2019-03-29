@@ -39,6 +39,8 @@ In order to “foster and sustain the ecosystem of open-source, vendor neutral p
 
 **Governance**: Transparent governance with a clear path for new contributors to become maintainers, and for maintainers to become project leaders.
 
+**Collaboration**: A community that is willing to interact with and listen to other projects and people with different thoughts, and let those influence the direction.
+
 **Openness**: A community that is open, transparent, accessible, and operates independently of specific partisan interests. A community that accepts all contributors based on the merit of their contributions. A community whose decisions are transparent.
 
 **Fairness**: A community that seeks to avoid undue influence, bad behaviours, and/or “pay-to-play” decision-making.
