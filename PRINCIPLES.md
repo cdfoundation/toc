@@ -13,9 +13,9 @@ believes in the open source solutions collectively addressing the whole software
 
 
 ## Technical Vision of CD
-Security, reliability, velocity: Pick Three!  The TOC “believes in the power of Continuous Delivery to empower developers and teams and to produce high quality software more rapidly,” because the continuous delivery practice should result in strict improvements across all three dimensions for developers. They should not have to choose between moving fast and not breaking things.
+Software has eaten the world, and the appetite for better software is so bottomless that some engineers feel like something needs to be sacrificed to keep up with the demand. At the CDF, we refuse to do that. Security, reliability, velocity: Pick Three!  The TOC “believes in the power of Continuous Delivery to empower developers and teams and to produce high quality software more rapidly,” because the continuous delivery practice should result in strict improvements across all three dimensions for developers. They should not have to choose between moving fast and not breaking things.
 
-**Security**: Software has eaten the world. Vulnerabilities everywhere can have outsized impact on end users. Delivery is one of the first and most important places to inject and enforce best practices around security. We need to respect this opportunity and drive the industry forward to provide better, more secure software for everyone.
+**Security**: Vulnerabilities everywhere can have outsized impact on end users. Delivery is one of the first and most important places to inject and enforce best practices around security. We need to respect this opportunity and drive the industry forward to provide better, more secure software for everyone.
 
 **Velocity**: Continuous delivery practices have been known to improve the velocity of software development for a long time. Helping users adopt these practices, and helping projects further increase velocity will help the industry deliver more value to users faster.
 
@@ -39,7 +39,7 @@ In order to “foster and sustain the ecosystem of open-source, vendor neutral p
 
 **Governance**: Transparent governance with a clear path for new contributors to become maintainers, and for maintainers to become project leaders.
 
-**Collaboration**: A community that is willing to interact with and listen to other projects and people with different thoughts, and let those influence the direction.
+**Collaboration**: A community that is willing to interact with and listen to other projects and people with different thoughts, skill sets, specialities, senorities, and backgrounds, and let those influence the direction.
 
 **Openness**: A community that is open, transparent, accessible, and operates independently of specific partisan interests. A community that accepts all contributors based on the merit of their contributions. A community whose decisions are transparent.
 
