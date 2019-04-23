@@ -13,7 +13,7 @@ believes in the open source solutions collectively addressing the whole software
 
 
 ## Technical Vision of Continuous Delivery
-Software has eaten the world, and the appetite for better software is so bottomless that some engineers feel like something needs to be sacrificed to keep up with the demand. At the CDF, we refuse to do that. Security, reliability, velocity: Pick Three!  The TOC “believes in the power of Continuous Delivery to empower developers and teams and to produce high quality software more rapidly,” because the Continuous Delivery practice should result in strict improvements across all three dimensions for developers. They should not have to choose between moving fast and not breaking things.
+Software has eaten the world, and the appetite for better software is so bottomless that some engineers feel like something needs to be sacrificed to keep up with the demand. At the CDF, we refuse to do that. Security, reliability, velocity: Pick Three!  The TOC “believes in the power of Continuous Delivery to empower developers and teams and to produce high quality software more rapidly,” because Continuous Delivery practices should result in strict improvements across all three dimensions for developers. They should not have to choose between moving fast and not breaking things.
 
 **Security**: Vulnerabilities everywhere can have outsized impact on end users. Delivery is one of the first and most important places to inject and enforce best practices around security. We need to respect this opportunity and drive the industry forward to provide better, more secure software for everyone.
 
