@@ -1,10 +1,10 @@
 ## I. Overview
 
-This governance policy describes how an open source project can formally join the foundation via the [Project Proposal Process](). It describes the [Stages]() a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process]() through which those changes will be evaluated and made. 
+This governance policy describes how an open source project can formally join the foundation via the [Project Lifecycle Process](). It describes the [Stages]() a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process]() through which those changes will be evaluated and made. 
 
 Project progression - movement from one stage to another - allows projects to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources.
 
-## II. Project Proposal Process
+## II. Project Lifecycle Process
 
 ### Introduction
 This governance policy sets forth the proposal process for projects to be accepted into the foundation. The process is the same for both existing projects which seek to move into the Foundation and new projects to be formed within the Foundation.
