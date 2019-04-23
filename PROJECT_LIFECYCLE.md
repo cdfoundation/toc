@@ -9,6 +9,8 @@ Project progression - movement from one stage to another - allows projects to pa
 ### Introduction
 This governance policy sets forth the proposal process for projects to be accepted into the foundation. The process is the same for both existing projects which seek to move into the Foundation and new projects to be formed within the Foundation.
 
+Every project will start at incubation and can progress toward graduation on its own timeline.
+
 ### Project Proposal Requirements
 Projects must be formally proposed via GitHub. Project proposals submitted should provide the following information to the best of their ability:
 
@@ -45,7 +47,7 @@ Projects must be formally proposed via GitHub. Project proposals submitted shoul
 
 Every project has an associated maturity level. Proposed projects should state their preferred maturity level.
 
-All projects may attend TOC meetings and contribute work regardless of their stage. 
+Representatives from all projects may attend TOC meetings and contribute work regardless of their stage. 
 
 ### Incubation Stage
 
@@ -70,7 +72,7 @@ Projects in the Incubation Stage are generally expected to move out of the Incub
 To be considered for Incubation Stage, the project must meet the following requirements:
 
 * 2 TOC sponsors to champion the project and provide mentorship as needed
-* A presentation to at the meeting of the TOC
+* A presentation at a meeting of the TOC
 * Adherence to the foundation's IP Policy
 * Upon acceptance, At Large projects must list their status prominently on their website/README
 * Development of a growth plan, to be done in conjunction with their project mentor(s) at the TOC.
@@ -107,7 +109,7 @@ To graduate from Incubating status, a project must meet the Incubation stage cri
  * Explicitly define a project governance and committer process. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and OWNERS.md file showing the current and emeritus committers.
  * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
  * Other metrics as defined by the applying Project during the application process in cooperation with the TOC.
- * Receive a supermajority vote from the TOC to move to Graduated stage. 
+ * Receive a 2/3 supermajority vote from the TOC to move to Graduated stage. 
  
 ### Emeritus Stage (Archive)
 
@@ -126,7 +128,7 @@ Projects in this stage are not in active development. Their maintainers may infr
 
 **Acceptance Criteria**
 
-Projects may be granted Emeritus status via a 2/3 vote from the TOC and with approval from project ownership. In cases where there is a lack of project ownership, only a 2/3 vote from the TOC is required.
+Projects may be granted Emeritus status via a 2/3 vote from the TOC.
 
 ## IV. Annual Review Process
 
