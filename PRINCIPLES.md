@@ -1,4 +1,4 @@
-# CDF TOC Principles
+# CDF TOC Principles v1.0
 
 ## What We're Looking For
 We are looking for high-quality projects that improve all aspects of the general practice of "Continuous Delivery" for all software development, such as CI, QA, deployment, and SRE. We want to drive the modernization of Continuous Delivery, but make this available to everyone.
