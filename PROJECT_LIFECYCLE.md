@@ -53,7 +53,7 @@ Representatives from all projects may attend TOC meetings and contribute work re
 
 **Definition** 
 
-The Incubation Stage is for projects that are interested and have identified a growth plan for doing so. Incubation Stage projects will receive mentorship from the TOC and are expected to actively develop their community of contributors, governance, project documentation, and other variables identified in the growth plan that factor in to broad success and adoption.
+The Incubation Stage is for projects that are interested in reaching broad adoption and have identified a growth plan for doing so. Incubation Stage projects will receive mentorship from the TOC and are expected to actively develop their community of contributors, governance, project documentation, and other variables identified in the growth plan that factor in to broad success and adoption.
 
 A project's progress toward its growth plan goals will be reviewed on a yearly basis.
 
@@ -103,7 +103,7 @@ Graduated Stage projects are expected to participate actively in TOC proceedings
 
 To graduate from Incubating status, a project must meet the Incubation stage criteria plus:
 
- * Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than 1/3 is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer. 
+ * Have a defined governing body which consists of members from at least 2 different companies.
  * Have a documented and publicly accessible description of the project's governance, decision-making, and release processes.
  * Have a healthy number of committers from at least two organizations. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
  * Explicitly define a project governance and committer process. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and OWNERS.md file showing the current and emeritus committers.
