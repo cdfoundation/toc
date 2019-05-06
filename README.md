@@ -18,6 +18,10 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 * James Strachan (Jenkins-X)
 * Dan Lorenc (Tekton)
 * Andy Glover (Spinnaker)
+* Tara Hernandez (Google)
+* Kris Nova (VMWare)
+
+Updated website for TOC: https://cd.foundation/about/toc/
 
 ## Communication
 
@@ -28,4 +32,4 @@ The meeting minutes are here: https://docs.google.com/document/d/1uBHar55fTInWF9
 The public calendar is here: https://calendar.google.com/calendar?cid=amJqM250cjJmdGZyMmRxZDNwMmppYjJsMWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 
 ## Documents
-* [Principles](Principles.md)
+* [Principles](PRINCIPLES.md)
