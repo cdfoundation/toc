@@ -19,7 +19,7 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 * Dan Lorenc (Tekton)
 * Andy Glover (Spinnaker)
 * Tara Hernandez (Google)
-* Kris Nova (VMWare)
+* Kris Nova (VMware)
 
 Updated website for TOC: https://cd.foundation/about/toc/
 
