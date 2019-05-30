@@ -32,4 +32,5 @@ The public calendar is here: https://calendar.google.com/calendar?cid=amJqM250cj
 
 ## Documents
 * [Principles](PRINCIPLES.md)
+* [Project Lifecycle](PROJECT_LIFECYCLE.md)
 * [Code of Conduct](CODE_OF_CONDUCT.md)
