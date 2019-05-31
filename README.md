@@ -19,6 +19,7 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 * Dan Lorenc (Tekton)
 * Andy Glover (Spinnaker)
 * Tara Hernandez (Google)
+* Yoav Landman (jFrog)
 
 Updated website for TOC: https://cd.foundation/about/toc/
 
