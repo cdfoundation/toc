@@ -1,4 +1,4 @@
-#TOC Contributors [DRAFT]
+# TOC Contributors [DRAFT]
 
 Find out more about the role of TOC contributors [here](CONTRIBUTING.md#toc-contributors)
 
