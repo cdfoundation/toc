@@ -14,14 +14,20 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 
 ## Members
 
-* Kohsuke Kawaguchi (Jenkins)
-* James Strachan (Jenkins-X)
-* Dan Lorenc (Tekton)
-* Andy Glover (Spinnaker)
-* Tara Hernandez (Google)
-* Yoav Landman (JFrog)
+* Kohsuke Kawaguchi (Jenkins) [Chair] - 03/1/2019 to 02/29/2020  [GB-appointed]
+* James Strachan (Jenkins-X) - 03/1/2019 to 02/29/2020  [GB-appointed]
+* Dan Lorenc (Tekton) - 03/1/2019 to 02/29/2020  [GB-appointed]
+* Andy Glover (Spinnaker) - 03/1/2019 to 02/29/2020  [GB-appointed]
+* Tara Hernandez (Google) - 05/1/2019 to 04/30/2020 [TOC-appointed]
+* Yoav Landman (JFrog) - 05/1/2019 to 04/30/2020 [TOC-appointed]
 
 Updated website for TOC: https://cd.foundation/about/toc/
+
+## Projects
+
+See the [process for contributing a project here](https://github.com/cdfoundation/toc/blob/master/PROJECT_LIFECYCLE.md).
+
+See the current [CDF projects here](https://cd.foundation/projects/).
 
 ## Communication
 
