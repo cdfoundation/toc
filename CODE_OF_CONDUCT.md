@@ -75,6 +75,6 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
 
-## CDF Events Code of Conduct
+## Events Code of Conduct
 
-CDF events are governed by the Linux Foundation [Code of Conduct](https://events.linuxfoundation.org/code-of-conduct/) available on the event page. The Events Code of Conduct supports the above policy and also includes more details on responding to incidents.
+Official CDF events are governed by the Linux Foundation [Code of Conduct](https://events.linuxfoundation.org/code-of-conduct/) available on the event page. The Events Code of Conduct supports the above policy and also includes more details on responding to incidents.
