@@ -28,11 +28,11 @@ The SIG will deliver designs, specifications, shared code and processes that mee
 ## 5. A list of initial members, and a chair. There should be at least 3 different companies represented
 
 Initial members:
-* Microsoft
+* Microsoft - Kay Williams, Open Source Strategy and Partnerships, Azure Office of the CTO (kayw@microsoft.com)
 * Google
-* CloudBees
+* CloudBees - Fred Blaise, Director, Product Security (fblaise@cloudbees.com)
 
-Chair: Kay Williams, Microsoft
+Chair: Kay Williams
 
 ## 6. Any resources needed from the CDF to accomplish the task.
 This can include funding, marketing, technical expertise or other resources. Note that some types of resources may require allocation from the Governing Board.
