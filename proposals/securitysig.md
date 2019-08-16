@@ -29,7 +29,7 @@ The SIG will deliver designs, specifications, shared code and processes that mee
 
 Initial members:
 * Microsoft - Kay Williams, Open Source Strategy and Partnerships, Azure Office of the CTO (kayw@microsoft.com)
-* Google
+* Google - Brian Russell, Product Manager, Google Cloud Platform (brianru@google.com)
 * CloudBees - Fred Blaise, Director, Product Security (fblaise@cloudbees.com)
 
 Chair: Kay Williams
