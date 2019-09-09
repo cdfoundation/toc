@@ -11,4 +11,4 @@ TOC and TOC Contributors have fulfilled SIG duties in the past and will continue
 
 ## Current SIGS
 
-* <name_of_sig>
+* Security (https://github.com/cdfoundation/sig-security)
