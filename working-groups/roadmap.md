@@ -27,8 +27,9 @@ A month.
 ## 5. Initial Members
 * Kohsuke Kawaguchi (CloudBees)
 * Tara Hernandez (Google)
+* Fatih Degirmenci (Ericsson)
 
-The chair is TBD.
+The chair is TBD. Participation is open to anyone who can spend time in this effort.
 
 ## 6. Any resources needed from the CDF to accomplish the task.
 None. But hey, if the CDF wants to grease the brainstorming process by supplying beer, we are not going to turn that down!
