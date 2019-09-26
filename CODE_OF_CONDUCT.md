@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct v0.5.0 [DRAFT]
+# Contributor Covenant Code of Conduct v0.5.0
 
 ## Our Pledge
 
