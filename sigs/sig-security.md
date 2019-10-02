@@ -25,4 +25,4 @@ The Security SIG meets every other week at 9 AM Pacific, immediatly preceeding T
 
 Meeting agendas and minutes are here: https://docs.google.com/document/d/1R-o4TuIed-CX2QIe25HD6793PzPAgojZMbz3q78lqYM/edit#
 
-Download this invitation to add the meeting to your calendar :https://zoom.us/meeting/tZcvcuugqD8tyCbzKhDecxk7i_DTjwwoxw/ics?icsToken=16e7a1f824ad13ceb2a417f99e43dbc02fcc6db5825820f64677b5dec84af379
+Download this invitation to add the meeting to your calendar: https://zoom.us/meeting/tZcvcuugqD8tyCbzKhDecxk7i_DTjwwoxw/ics?icsToken=16e7a1f824ad13ceb2a417f99e43dbc02fcc6db5825820f64677b5dec84af379
