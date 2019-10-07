@@ -21,7 +21,7 @@ The Security SIG provides a neutral home for discussion around designs, specific
 Security SIG communication happens via a public mailing list: https://lists.cd.foundation/g/sig-security
 
 ## Meetings
-The Security SIG meets every other week at 9 AM Pacific, immediatly preceeding TOC meetings.
+The Security SIG meets every other week at 9 AM Pacific, immediately preceding TOC meetings.
 
 Meeting agendas and minutes are here: https://docs.google.com/document/d/1R-o4TuIed-CX2QIe25HD6793PzPAgojZMbz3q78lqYM/edit#
 
