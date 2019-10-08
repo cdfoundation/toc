@@ -25,6 +25,7 @@ The SIG will deliver designs, specifications, shared code and processes that mee
 * Jeremey Lewi (Google) - Kubeflow Lead
 * Andrea Fritolli (IBM) - Tekton Committer
 * Peng Li (IBM) - Tekton Committer
+* Pete MacKinnon (Red Hat) - Kubeflow contributor
 
 ## Communication
 MLOps SIG communication happens via a public mailing list: TBD
