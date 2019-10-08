@@ -21,7 +21,7 @@ The SIG will deliver designs, specifications, shared code and processes that mee
 * Animesh Singh (IBM) - Chair
 * Pavel Dournov (Google) - Co-chair
 * Michael Neale (CloudBees) - Co-chair
-* Hamel Husain (Github/Microsoft) - Co-chair
+* Hamel Husain (Github) - Co-chair
 * Jeremey Lewi (Google) - Kubeflow Lead
 * Andrea Fritolli (IBM) - Tekton Committer
 * Peng Li (IBM) - Tekton Committer
