@@ -26,6 +26,7 @@ The SIG will deliver designs, specifications, shared code and processes that mee
 * Andrea Fritolli (IBM) - Tekton Committer
 * Peng Li (IBM) - Tekton Committer
 * Pete MacKinnon (Red Hat) - Kubeflow contributor
+* Václav Pavlín (Red Hat) - Open Data Hub Lead
 
 ## Communication
 MLOps SIG communication happens via a public mailing list: TBD
