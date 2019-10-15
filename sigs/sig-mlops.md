@@ -29,7 +29,7 @@ The SIG will deliver designs, specifications, shared code and processes that mee
 * Václav Pavlín (Red Hat) - Open Data Hub Lead
 
 ## Communication
-MLOps SIG communication happens via a public mailing list: TBD
+MLOps SIG communication happens via a public mailing list: https://lists.cd.foundation/g/sig-mlops
 
 ## Meetings
 The MLOps SIG meets every other week at 9:30 AM Pacific, on Thursdays
