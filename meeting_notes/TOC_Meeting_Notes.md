@@ -14,8 +14,6 @@ Logistics:
 Future Agenda Items (please add as necessary):
 ----------------------------------------------
 
--   Friendlier meeting time for our APAC friends? (Dan Lopez)
-
 -   **TOC Attendees:**
 
     -   Kohsuke Kawaguchi (Jenkins) \[CHAIR\] - not present
@@ -44,7 +42,292 @@ Future Agenda Items (please add as necessary):
 
     -   Benjamin Brial (Cycloid)
 
+    -   Jacqueline Salinas
+
+    -   Tracy Ragan (Deploy Hub)
+
 -   **Agenda and Notes:**
+
+    -   
+
+Oct 8, 2019 
+------------
+
+-   **TOC Attendees:**
+
+    -   Kohsuke Kawaguchi (Jenkins) \[CHAIR\] - not present
+
+    -   James Strachan (Jenkins X) - not present
+
+    -   Dan Lorenc (Tekton) - not present
+
+    -   Andy Glover (Spinnaker) - not present
+
+    -   Tara Hernandez (Google) - present
+
+    -   Yaov Landman (JFrog) - not present
+
+-   **Other Attendees:**
+
+    -   Dan Lopez (Linux Foundation)
+
+    -   Jacqueline Salinas (LF/CD Foundation)
+
+    -   Tracy Miranda (CloudBees) - not present
+
+    -   Matt Young (Puppet)
+
+    -   Kara de la Marck (CloudBees) - not present
+
+    -   Fatih Degirmenci (Ericsson Software Technology) - not present
+
+    -   Benjamin Brial (Cycloid) - not present
+
+    -   Tracy Ragan (Deploy Hub) - present
+
+    -   Kay Williams (Microsoft) - present
+
+-   **Agenda and Notes:**
+
+    -   Landscape review (Tracy Ragan):
+
+        -   Requests approval to move landscape forward (now published),
+            > needs infra support to help companies create PRs, and
+            > review
+
+            -   TOC should be responsible for this -- start with
+                > reviewing PRs in TOC meetings, but if traffic gets
+                > heavy review other options (paid resource?)
+
+        -   Question: CNCF landscape has duplication of the same
+            > company/products in different categories. What policy does
+            > the CDF want to have/support with regards to this.
+
+            -   Dan Lopez: be clear about rational for this either way
+                > (review of CNCF policy)
+
+                -   Tracy recommends we discourage multiple categories
+                    > -- focus on core competency of each tool/project
+
+            -   Need to ensure we have commitment to maintenance,
+                > (overseen by TOC?)
+
+            -   Dan: landscape entries don’t necessary have to be member
+                > organizations (based on CNCF precedent)
+
+                -   Complimentary offerings (integrations, i.e.)
+
+                -   Also recruit opportunities for OSS projects for
+                    > incubation
+
+                -   “Projects” must be OSS but commercial products can
+                    > be listed in discipline categories -- logos need
+                    > to be clear on this
+
+                -   We should also identify airgaps where we want to
+                    > solicit
+
+            -   TracyR: provided quick review of categories
+
+                -   Tara and team agree there is some overlap
+
+            -   Dan Lopez: Like to have this out and published by Oct 22
+                > and available by Kubecon NA
+
+        -   Recommendation to announce to members to add logos via PRs
+
+            -   Tara to take care of this with Dan Lopez review
+
+    -   TOC Minutes to Github (Tara Hernandez)
+
+        -   Tara H: Going to go ahead and start doing this, post-meeting
+            > convert live gdoc notes into .md file(s)
+
+    -   Telemetry discussion (Dan Lopez)
+
+        -   What are projects doing, wanting to do
+
+        -   best practices, standards, specs
+
+        -   Legal considerations incl GDPR
+
+        -   Missing some key TOC folks -- followup on this next meeting
+
+            -   Need to understand what information we want to capture
+                > and figure out least invasive way to achieve it
+
+            -   Triggering regulatory controls Would Be Bad(™)
+
+    -   
+
+Sep 24, 2019 
+-------------
+
+-   Friendlier meeting time for our APAC friends? (Dan Lopez)
+
+-   **TOC Attendees:**
+
+    -   Kohsuke Kawaguchi (Jenkins) \[CHAIR\] - present
+
+    -   James Strachan (Jenkins X) -
+
+    -   Dan Lorenc (Tekton) - present
+
+    -   Andy Glover (Spinnaker) - not present
+
+    -   Tara Hernandez (Google) - not present
+
+    -   Yaov Landman (JFrog) - not present
+
+-   **Other Attendees:**
+
+    -   Dan Lopez (Linux Foundation)
+
+    -   Tracy Miranda (CloudBees)
+
+    -   Fatih Degirmenci (Ericsson Software Technology)
+
+    -   David Lai
+
+    -   Jacqueline Salinas
+
+    -   Matt Young (Puppet)
+
+-   **Agenda and Notes:**
+
+    -   Security SIG
+
+        -   Next steps for Security SIG -- founding team?
+
+        -   Updates
+
+        -   DLc: people involved are at a f2f meeting. I’m not surprised
+            > they are not here
+
+        -   DLz: bi-weekly meeting will commence in Oct, along with the
+            > logistics setup.
+
+            -   Done: ACL, repository. (this has been done b/w Tara
+                > & DLz)
+
+            -   Goal is to use Wiki as a scratch documentation place,
+                > but the formal doc will be in markdown in Git repo
+
+        -   DLz: we are planning a media announcement of the effort
+
+            -   KK: this reminds me it’d be great for us to have a voice
+                > as blog / TDM: “developer voice”
+
+                -   DLz: if you write one or recruit people to write
+                    > ones, that’d be great! Just put them in GDoc or
+                    > something and send it on our way
+
+    -   TDM: CD Summit
+
+        -   Agenda is live -
+            > [*https://cds2019.sched.com/*](https://cds2019.sched.com/)
+
+        -   Please register now (only 200 spaces)
+
+        -   TDM: Christie and I are co-chairing. We got 50+ submissions
+            > against 15 slots. I’m very happy with the schedule —
+            > great sessions. Thanks to people who reviewed sessions.
+
+        -   DLz: there will be some media announcement on this as well
+
+        -   DLc: there’s also codefresh CI/CD summit happening on the
+            > same day. Just FYI.
+
+        -   TDM: if you are coming, plan to stick around in the evening.
+            > Some activities are being planned.
+
+            -   TDM: member companies who have booth will run some
+                > guerilla sessions related to the CDF and we’ll stitch
+                > them together into one “virtual” event
+
+        -   DLc: can we plan an in-person meeting for SIG/TOC/GB?
+
+            -   Probably during the main show
+
+            -   ACTION: DLz to inquire from Emily
+
+    -   Roadmap WG
+
+        -   FD: I was looking for wording to be more explicitly invite
+            > anyone involved in space.
+
+        -   DLc: That part of the text was a little unclear
+
+        -   Next step: KK to resolve FD’s comment by massaging the text,
+            > plus produce a few samples
+
+    -   CDF & Outreachy - project deadline 24th Sep - that’s today!
+
+        -   [*https://www.outreachy.org/apply/project-selection/*](https://www.outreachy.org/apply/project-selection/)
+
+        -   1 Jenkins project ([*Integrate Jenkins with GitHub
+            > Apps*](https://www.outreachy.org/december-2019-to-march-2020-internship-round/communities/jenkins/#integrate-jenkins-with-github-apps))
+
+        -   2 Jenkins X projects
+
+            -   [*Create a Cloud Storage backed Helm repository for
+                > Jenkins X replacing
+                > ChartMuseum*](https://www.outreachy.org/december-2019-to-march-2020-internship-round/communities/jenkins-x/#create-a-cloud-storage-backed-helm-repository-for-)
+
+            -   [*Improve the Jenkins X Apps
+                > Framework*](https://www.outreachy.org/december-2019-to-march-2020-internship-round/communities/jenkins-x/#improve-the-jenkins-x-apps-framework)
+
+        -   Tekton pending
+
+            -   Because Tekton was accepted as a community, deadline for
+                > this is now Oct.
+
+    -   Fatih: CDF TOC meetings are not showing up in the public
+        > calendar
+
+        -   ACTION: Jacqueline to look into this
+
+    -   MLOPs Working Group
+
+        -   Please review proposal:
+            > [*https://github.com/cdfoundation/toc/issues/34*](https://github.com/cdfoundation/toc/issues/34)
+
+Sep 10 (?)
+----------
+
+-   **TOC Attendees:**
+
+    -   Kohsuke Kawaguchi (Jenkins) \[CHAIR\] - not present
+
+    -   James Strachan (Jenkins X) -
+
+    -   Dan Lorenc (Tekton) - present
+
+    -   Andy Glover (Spinnaker) - present
+
+    -   Tara Hernandez (Google) - present
+
+    -   Yaov Landman (JFrog) -
+
+-   **Other Attendees:**
+
+    -   Dan Lopez (Linux Foundation)
+
+    -   Tracy Miranda (CloudBees)
+
+    -   Matt Young (Puppet)
+
+    -   Kara de la Marck (CloudBees)
+
+    -   Fatih Degirmenci (Ericsson Software Technology)
+
+    -   Benjamin Brial (Cycloid)
+
+-   **Agenda and Notes:**
+
+    -   Friendlier meeting time for our APAC friends? (Dan Lopez)
+
+        -   
 
     -   Next steps for Security SIG -- founding team?
 
@@ -833,11 +1116,10 @@ June 4, 2019
 
         -   Upcoming
 
-            -   Spencer: FYI, [*Delivery
-                > conf*](https://twitter.com/DeliveryConf/status/1135566768628539392)
+            -   Spencer: FYI, C
 
-            -   Tara: [*https://re-deploy.io/*](https://re-deploy.io/)
-                > in SF, small scale sponsorship could be small amount
+            -   Tara: C in SF, small scale sponsorship could be small
+                > amount
 
             -   
 
