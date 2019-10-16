@@ -36,4 +36,4 @@ The MLOps SIG meets every other week at 9:30 AM Pacific, on Thursdays
 
 Meeting agendas and minutes are here: TBD
 
-Download this invitation to add the meeting to your calendar: TBD
+Download this invitation to add the meeting to your calendar: https://zoom.us/meeting/u5Iqduutpj8o7fVIT1pePLk5wv4H9XpojQ/ics
