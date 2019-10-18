@@ -37,6 +37,8 @@ The meeting minutes are here: [TOC Meeting Notes](meeting_notes/TOC_Meeting_Note
 
 The public calendar is here: https://calendar.google.com/calendar?cid=amJqM250cjJmdGZyMmRxZDNwMmppYjJsMWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 
+The community also uses [Slack additional collaboration opportunities](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtNzk2OTgxNzY2NzkwLTQ3Zjg0OGJhZjdiMjlkMjZjZjJjN2EwZDg1Mjk3ODJkMzdmYjdmNTk0MWI2ZjI2MzgzNWExN2E3ZWExZGIyZDM)
+
 ## Documents
 * [Principles](PRINCIPLES.md)
 * [Project Lifecycle](PROJECT_LIFECYCLE.md)
