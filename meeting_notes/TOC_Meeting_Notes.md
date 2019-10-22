@@ -11,44 +11,233 @@ Logistics:
 -   Twitter:
     > [*https://twitter.com/CDeliveryFdn*](https://twitter.com/CDeliveryFdn)
 
-Future Agenda Items (please add as necessary):
-----------------------------------------------
+Oct 22, 2019 :
+--------------
 
 -   **TOC Attendees:**
 
-    -   Kohsuke Kawaguchi (Jenkins) \[CHAIR\] - not present
+    -   Kohsuke Kawaguchi (Jenkins) \[CHAIR\] - present
 
-    -   James Strachan (Jenkins X) -
+    -   James Strachan (Jenkins X) - not present
 
-    -   Dan Lorenc (Tekton) - not present
+    -   Dan Lorenc (Tekton) - present
 
     -   Andy Glover (Spinnaker) - present
 
     -   Tara Hernandez (Google) - present
 
-    -   Yaov Landman (JFrog) -
+    -   Yoav Landman (JFrog) - present
 
 -   **Other Attendees:**
 
     -   Dan Lopez (Linux Foundation)
 
-    -   Tracy Miranda (CloudBees)
-
     -   Matt Young (Puppet)
-
-    -   Kara de la Marck (CloudBees)
 
     -   Fatih Degirmenci (Ericsson Software Technology)
 
-    -   Benjamin Brial (Cycloid)
-
     -   Jacqueline Salinas
 
-    -   Tracy Ragan (Deploy Hub)
+    -   Spencer Krum (IBM)
 
 -   **Agenda and Notes:**
 
-    -   
+    -   TOC Call to support APAC time zones (call for suggested times)
+
+        -   DLz: we just signed up Fujitsu (from Japan), and a few more
+            > people are asking for it
+
+        -   Tara: I was looking more into “engaging people behind the
+            > firewall”
+
+        -   A few people from Europe
+
+        -   Looks like we are looking into rotating the call
+
+            -   **ACTION: Tara and DLz to propose a rotating call
+                > schedule**
+
+    -   Telemetry policy
+        > [*https://www.linuxfoundation.org/telemetry-data-policy/*](https://www.linuxfoundation.org/telemetry-data-policy/)
+
+        -   How about existing projects
+
+            -   DLz: The policy applies to all LF projects. No
+                > “grandfather” status.
+
+            -   DLz: “we want to be as flexible as possible” but
+                > suggests getting the review underway ASAP
+
+            -   Tara: I assume this has been driven by legal heat
+
+            -   **ACTION: Kohsuke to initiate the review process for the
+                > Jenkins project**
+
+            -   **ACTION: Kohsuke to add this to the TOC repo for
+                > blessing in the CDF**
+
+        -   Are there other projects that are collecting telemetry?
+
+            -   Andy: there’s currently no telemetry collection
+                > happening in Spinnaker, there’s an active conversation
+
+            -   DLc: nothing in Tekton
+
+            -   **ACTION: Kohsuke to ping James Strachan to check the
+                > status of Jenkins X**
+
+    -   Landscape
+
+        -   call to action to update
+
+            -   [*https://l.cd.foundation*](https://l.cd.foundation)
+
+            -   [*https://github.com/cdfoundation/cdf-landscape*](https://github.com/cdfoundation/cdf-landscape)
+
+        -   Tara: TRagan was here last meeting, this is underway. It’s
+            > already out. Whoever wants to add can add PR
+
+        -   Tara: I was wondering how to mix products/non-OSS as context
+            > into this
+
+    -   New Projects
+
+        -   Screwdriver.cd
+
+            -   Current status: they came back with the updated
+                > motivation doc.
+
+                -   **Next step: have Jiten update the proposal PR with
+                    > this doc and call for a vote**
+
+                -   ACTION: Kohsuke to ping Jiten
+
+        -   new projects
+
+            -   DLz: Eiffel - they are asking how best to engage
+
+                -   Yoav: is there any pointer to this project?
+
+                -   [*https://eiffel-community.github.io/*](https://eiffel-community.github.io/)
+
+                -   [*https://github.com/eiffel-community/eiffel*](https://github.com/eiffel-community/eiffel)
+
+                -   DLz: Follow up with Eiffel team possible at CD
+                    > Summit NA
+
+            -   DLz: Sonatype - Open discussions. KK/DLz need to get
+                > back to Brian @ Sonatype
+
+            -   Tara: I was at an event “Redeploy” (?) and met somebody
+                > from Netflix in the resiliency engineering and cooked
+                > a SIG idea. This conversation will happen this week.
+                > Andy knows him too
+
+                -   Andy: Resilience Engineering at Netflix is within
+                    > Delivery Engineering (my org) and I’m happy to
+                    > make additional connections
+
+    -   SIGs, WGs
+
+        -   SIG-Security
+
+            -   DLc: update was sent to the TOC list. Look at that
+
+            -   Yoav: JFrog has some relevant stuff. DLc: Ido is
+                > involved
+
+            -   Tara: question — wrt security SIG, the expected outcome
+                > is a “specification” / BoM.
+
+                -   KK: would love to see the adoption of this in CDF
+                    > projects
+
+                -   KK: as for Jenkins project, looking for contributors
+                    > to drive the coding work forward
+
+                -   DLz: I recommend we start with “specifications”
+                    > before we call it “standard”
+
+        -   SIG-MLOps
+
+            -   DLz: I know the repo was created, activity has been
+                > planned but negotiating the final meeting time. Mail
+                > list was set up too.
+
+                -   [*sig-mlops@lists.cd.foundation*](http://sig-mlops@lists.cd.foundation)
+
+                -   [*https://lists.cd.foundation/g/sig-mlops/topics*](https://lists.cd.foundation/g/sig-mlops/topics)
+
+            -   Tara: I met with tons of ML startups and I’ll inform
+                > them about this
+
+        -   WG-Roadmap
+
+            -   KK: I need to move this forward. More PR massaging on
+                > wording to do.
+
+        -   
+
+    -   Developer Ecosystem & Events
+
+        -   CDSummit NA updates
+
+            -   Jac: As of Oct 11, we are at 82 attendees registered. We
+                > are on track to sell out. Nice line up of sponsors to
+                > cover everything including lunch
+
+            -   Currently looking for cocktail hour sponsor. Need to
+                > find one till Oct 25th or there will be no booze!
+
+                -   One conversation in the mix, three more needed
+
+                -   \$1500
+
+                -   Matt: I’ll talk to my event people
+
+            -   DLc: what about meeting spaces during CD Summit NA?
+
+                -   DLz: CNCF informed me that the venue is
+                    > fully booked.
+
+                -   **ACTION: Jac to ping Emily to see if she can help
+                    > with nearby hotels, etc.**
+
+        -   Jac: We are rebranding Jenkins Area Meetup to CDF meetup
+
+            -   ?: how about pricing? Jac: we are pruning unused meetups
+                > \[to cut cost\]
+
+            -   Jac: we are giving them grace period to reboot till
+                > Jan 22.
+
+        -   Jac: we are organizing meetups in south bay & Israel with
+            > JFrog
+
+        -   Jac: DLc will represent CDF in upcoming Tokyo event
+
+        -   Webinar topics, call for participation
+
+            -   Jac: we are hoping to drive one webinar a month, will
+                > adjust based on the workload
+
+            -   DLz: there are some content queue lined up.
+
+                -   If you have content, go to Jac. Jac: I’ll create a
+                    > form and send a link.
+
+        -   Slack:
+            > [*https://join.slack.com/t/cdeliveryfdn/shared\_invite/enQtNzk2OTgxNzY2NzkwLTQ3Zjg0OGJhZjdiMjlkMjZjZjJjN2EwZDg1Mjk3ODJkMzdmYjdmNTk0MWI2ZjI2MzgzNWExN2E3ZWExZGIyZDM*](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtNzk2OTgxNzY2NzkwLTQ3Zjg0OGJhZjdiMjlkMjZjZjJjN2EwZDg1Mjk3ODJkMzdmYjdmNTk0MWI2ZjI2MzgzNWExN2E3ZWExZGIyZDM)
+
+            -   Jac: please join!
+
+            -   ACTION: Kohsuke to add a link to TOC readme
+
+            -   DLz: more automated notifications to come
+
+    -   Any other business?
+
+        -    
 
 Oct 8, 2019 
 ------------
@@ -1658,4 +1847,39 @@ Mar 26, 2019
 
         -   DONE: CA to setup Zoom & recording
 
-    -
+Future Agenda Items (please use as template):
+---------------------------------------------
+
+-   **TOC Attendees:**
+
+    -   Kohsuke Kawaguchi (Jenkins) \[CHAIR\] - not present
+
+    -   James Strachan (Jenkins X) -
+
+    -   Dan Lorenc (Tekton) - not present
+
+    -   Andy Glover (Spinnaker) - present
+
+    -   Tara Hernandez (Google) - present
+
+    -   Yaov Landman (JFrog) -
+
+-   **Other Attendees:**
+
+    -   Dan Lopez (Linux Foundation)
+
+    -   Tracy Miranda (CloudBees)
+
+    -   Matt Young (Puppet)
+
+    -   Kara de la Marck (CloudBees)
+
+    -   Fatih Degirmenci (Ericsson Software Technology)
+
+    -   Benjamin Brial (Cycloid)
+
+    -   Jacqueline Salinas
+
+    -   Tracy Ragan (Deploy Hub)
+
+-   **Agenda and Notes:**
