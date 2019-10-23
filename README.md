@@ -12,6 +12,10 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 
 - such other matters related to the technical role of the TOC as may be communicated to the TOC by the Governing Board.
 
+## Governance
+
+* The [charter](https://github.com/cdfoundation/charter/blob/master/CHARTER.md) under which CDF operates
+
 ## Members
 
 * Kohsuke Kawaguchi (Jenkins) [Chair] - 03/1/2019 to 02/29/2020  [GB-appointed]
@@ -43,3 +47,9 @@ The community also uses [Slack additional collaboration opportunities](https://j
 * [Principles](PRINCIPLES.md)
 * [Project Lifecycle](PROJECT_LIFECYCLE.md)
 * [Code of Conduct](CODE_OF_CONDUCT.md)
+
+## Project Guidance
+
+* [Copyright notice recommendations](https://github.com/cdfoundation/foundation/blob/master/copyright.md)
+* [Project Website guidelines](https://github.com/cdfoundation/foundation/blob/master/project-website-guidelines.md) for mentioning companies while maintaining neutrality
+* [Telemetry and Data Collection Policy](https://www.linuxfoundation.org/telemetry-data-policy/)
