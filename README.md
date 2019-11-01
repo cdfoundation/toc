@@ -12,6 +12,10 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 
 - such other matters related to the technical role of the TOC as may be communicated to the TOC by the Governing Board.
 
+## Governance
+
+* The [charter](https://github.com/cdfoundation/charter/blob/master/CHARTER.md) under which CDF operates
+
 ## Members
 
 * Kohsuke Kawaguchi (Jenkins) [Chair] - 03/1/2019 to 02/29/2020  [GB-appointed]
@@ -33,9 +37,9 @@ See the current [CDF projects here](https://cd.foundation/projects/).
 
 The TOC communication happens via a public mailing list: https://lists.cd.foundation/g/cdf-toc
 
-The meeting minutes are here: [TOC Meeting Notes](meeting_notes/TOC_Meeting_Notes.md)
+The meeting minutes are here: [TOC Meeting Notes](docs/TOC_Meeting_Notes.md)
 
-The public calendar is here: https://calendar.google.com/calendar?cid=amJqM250cjJmdGZyMmRxZDNwMmppYjJsMWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+The public calendar is here: https://calendar.google.com/calendar/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24%40group.calendar.google.com&ctz=America%2FLos_Angeles
 
 The community also uses [Slack additional collaboration opportunities](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtNzk2OTgxNzY2NzkwLTQ3Zjg0OGJhZjdiMjlkMjZjZjJjN2EwZDg1Mjk3ODJkMzdmYjdmNTk0MWI2ZjI2MzgzNWExN2E3ZWExZGIyZDM)
 
@@ -43,3 +47,9 @@ The community also uses [Slack additional collaboration opportunities](https://j
 * [Principles](PRINCIPLES.md)
 * [Project Lifecycle](PROJECT_LIFECYCLE.md)
 * [Code of Conduct](CODE_OF_CONDUCT.md)
+
+## Project Guidance
+
+* [Copyright notice recommendations](https://github.com/cdfoundation/foundation/blob/master/copyright.md)
+* [Project Website guidelines](https://github.com/cdfoundation/foundation/blob/master/project-website-guidelines.md) for mentioning companies while maintaining neutrality
+* [Telemetry and Data Collection Policy](https://www.linuxfoundation.org/telemetry-data-policy/)

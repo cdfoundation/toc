@@ -27,6 +27,7 @@ The SIG will deliver designs, specifications, shared code and processes that mee
 * Peng Li (IBM) - Tekton Committer
 * Pete MacKinnon (Red Hat) - Kubeflow contributor
 * Václav Pavlín (Red Hat) - Open Data Hub Lead
+* Terry Cox (Bootstrap) - Jenkins X ML quickstarts lead
 
 ## Communication
 MLOps SIG communication happens via a public mailing list: https://lists.cd.foundation/g/sig-mlops
