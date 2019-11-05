@@ -18,7 +18,7 @@ The document is not meant to be exhaustive nor exclusive. Projects, SIGs, and WG
 * Kohsuke Kawaguchi
 
 ## 3. Timeline
-A month.
+3 months.
 
 ## 4. Tasks and Deliverables
 * A few brainstorming sessions to hash out the idea.
