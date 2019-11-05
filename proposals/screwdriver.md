@@ -49,6 +49,9 @@ The CD Foundation’s mission articulates four values: The value of continuous d
 
 We developed Screwdriver under the mantra “no humans involved.” We invested many person-years to create an automation platform that supports reproducibility, reliability, and quality of software projects. We believe in automation and are committed to reducing manual interaction with the testing and deployment process. We designed our solution to be open source and vendor neutral. Screwdriver is not tied to any proprietary tools for deployment. We use popular open source container and deployment technologies such as Kubernetes and Docker. We demonstrate our commitment to collaboration by working with peers at Yahoo Japan, and by proposing to join this foundation to help further expand our collaboration. 
 
+## Growth Plan
+[This document](https://github.com/screwdriver-cd/community/blob/master/docs/Screwdriver%20Open%20Source%20Community%20Growth%20Plan.pdf) captures what we seek by joining the CDF.
+
 ## Link to *current* Code of Conduct (if one is adopted already)
 https://github.com/screwdriver-cd/screwdriver/blob/master/code-of-conduct.md
 
