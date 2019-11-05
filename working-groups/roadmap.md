@@ -5,7 +5,7 @@ The CDF TOC should spend some time calling out the areas in which the CDF should
 
 The goal of this WG is to produce an initial "roadmap" document, which calls out such areas of impact in a sufficient quantity.
 
-Why? There are a lot of people who are doing interesting work in this space inside a corporate firewall. All too often, they don't know that their work could be broadly useful, and that there are other like-minded people out there. The goal of the "roadmap" document is to serve as a call for participation to those people. It shall send them a clear signal that their work is not only welcome but desirable in the CDF. It shall encourage those people to introduce themselves, bring their work here, and get connected with other people who share the same interest.
+Why? There are a lot of people who are doing interesting work in this space elsewhere &mdash; inside a corporate firewall, in other communities, in their own independent open source projects. All too often, they don't know that their work could be broadly useful, and that there are other like-minded people out there. The goal of the "roadmap" document is to serve as a call for participation to those people. It shall send them a clear signal that their work is not only welcome but desirable in the CDF. It shall encourage those people to introduce themselves, bring their work here, and get connected with other people who share the same interest.
 
 For each project/SIG/WG ideas, the "roadmap" document should make a case as to why the CDF wants to see that effort happen under its umbrella, and why that effort will be impactful. It needs to excite people to lead and participate in the effort.
 
