@@ -11,6 +11,208 @@ Logistics:
 -   Twitter:
     > [*https://twitter.com/CDeliveryFdn*](https://twitter.com/CDeliveryFdn)
 
+Dec 3, 2019 :
+-------------
+
+-   **TOC Attendees:**
+
+    -   Kohsuke Kawaguchi (Jenkins) \[CHAIR\] -
+
+    -   James Strachan (Jenkins X) -
+
+    -   Dan Lorenc (Tekton) -
+
+    -   Andy Glover (Spinnaker) -
+
+    -   Tara Hernandez (Google) -
+
+    -   Yoav Landman (JFrog) -
+
+-   **Other Attendees:**
+
+    -   .
+
+-   **Agenda and Notes:**
+
+    -   Recap of actions
+
+    -   Landscape
+
+Nov 19, 2019 :
+--------------
+
+Replaced by various in-person meetings at Kubecon / CD Summit
+
+Nov 5, 2019 :
+-------------
+
+-   **TOC Attendees:**
+
+    -   Kohsuke Kawaguchi (Jenkins) \[CHAIR\] - present
+
+    -   James Strachan (Jenkins X) -
+
+    -   Dan Lorenc (Tekton) - present
+
+    -   Andy Glover (Spinnaker) -
+
+    -   Tara Hernandez (Google) - present
+
+    -   Yoav Landman (JFrog) -
+
+-   **Other Attendees:**
+
+    -   Kay Williams (Microsoft)
+
+    -   Jacqueline Salinas (LF)
+
+    -   Dan Lopez (LF)
+
+    -   David Lai (Huawei)
+
+    -   Spencer Krum (IBM)
+
+    -   Matt Young (Puppet)
+
+-   **Agenda and Notes:**
+
+    -   Recap of actions
+
+        -   Tara and DLz to propose a rotating call schedule
+
+            -   Tara: we kicked around a few ideas. Pending ack from
+                > DLz, which was given during the call. It’ll come to
+                > the TOC list soon.
+
+        -   Kohsuke to initiate the telemetry review process for the
+            > Jenkins project
+
+            -   The main difference is opt-in/opt-out.
+
+        -   Kohsuke to ping James Strachan to check the status of
+            > Jenkins X wrt telemetry
+
+            -   KK: I did talk to others in the project, gave them a
+                > heads up, and confirmed that there’s no
+                > collection today.
+
+        -   (CD summit NA meeting space): Jac to ping Emily to see if
+            > she can help with nearby hotels, etc.
+
+            -   DLz: looking hotels near the convention center. Will
+                > have a meeting tomorrow. Update will come afterward.
+
+            -   DLz: this will be Tue or Wed. Kay: I prefer Wed
+
+    -   Jac: CD summit
+
+        -   We’ve asked volunteers to produce “pop up demos” from
+            > general members.
+
+            -   We’ve only got DeployHub and Whitesource so far.
+
+            -   **Please pass the words around, we want more.**
+
+            -   Volunteer needs to provide all the equipment.
+
+            -   The idea is that if you have a booth at Kubecon and is
+                > willing to allocate some time in there to talk about
+                > the CDF/the ecosystem/etc, then Jac collects those and
+                > promote them.
+
+    -   SIGs, WGs
+
+        -   SIG-Security
+
+            -   SIG-Security meetings merged with SBOM meetings through
+                > end of the year
+
+                -   Kay: This will make attendance more convenient
+
+            -   Meetup at CD Summit / KubeCon?
+
+                -   Kay: venue is being planned. See above. Could be
+                    > easily half day.
+
+                -   Agenda
+
+                    -   Discuss overall Software Supply Chain framework
+
+                        -   SBOM, Metadata Storage API, Update
+                            > Framework, Policy Framework
+
+                        -   SBOM, SPDX (software package data exchange —
+                            > focus on license but it’ll be broadened),
+                            > in-toto (currently under CNCF incubation)
+                            > reconciliation
+
+            -   Software Bill of Materials (SBOM)
+
+                -   Working toward ISO Standard, hopefully in 2021. That
+                    > road starts from OMG standard at the end of 2020.
+
+                    -   Bob Martin from MITRE is helping with this
+                        > journey
+
+                -   Draft specification
+
+                    -   11/11 Submission to OMG Architecture Board
+
+                -   New GitHub repo ‘sig-security-sbom’
+
+                    -   [*https://github.com/cdfoundation/sig-security-sbom*](https://github.com/cdfoundation/sig-security-sbom)
+
+            -   DLz: this is really exciting!! When it gets more real
+                > happy to coordinate the PR activities
+
+        -   Roadmap WG
+
+            -   **ACTION: Kohsuke to send out an email to the TOC,
+                > hoping to get some +1s before we accept this.**
+
+    -   LF China
+
+        -   We have engaged LF China. Once the new Asia friendly TOC
+            > meeting time is chosen, DLz will give them a heads up
+
+    -   Screwdriver conversation
+
+        -   KK: updated the proposal with a link to the growth document
+
+        -   **ACTION: Kohsuke to call for a new round of votes and /
+            > Tara: +1**
+
+            -   Tara: I liked that they have inter-project engagement in
+                > there
+
+        -   DLz: New project incubation recruiting
+
+            -   Screwdriver coming in should help
+
+            -   DLz: we have 2-3 projects coming in.
+
+    -   DLz: Project Office Hours with CDF PM office
+
+        -   Have regular check-ins with project leadership periodically
+
+            -   We’ll start by understanding their needs first
+
+            -   Email was already sent to individual projects
+
+        -   I would also love to see inter-project collaboration picked
+            > up more at TOC
+
+    -   How do we hand-off the landscape maintenance?
+
+        -   Let’s have this as a standing agenda in the TOC call
+
+    -   Code signing certificate of Jenkins
+
+        -   DLz: We have a new entity that can now obtain the key.
+            > **ACTION: This will be coordinated this week.**
+
+    -   See you in Kubecon!
+
 Oct 22, 2019 :
 --------------
 
@@ -176,8 +378,6 @@ Oct 22, 2019 :
             -   KK: I need to move this forward. More PR massaging on
                 > wording to do.
 
-        -   
-
     -   Developer Ecosystem & Events
 
         -   CDSummit NA updates
@@ -236,8 +436,6 @@ Oct 22, 2019 :
             -   DLz: more automated notifications to come
 
     -   Any other business?
-
-        -    
 
 Oct 8, 2019 
 ------------
