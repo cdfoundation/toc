@@ -37,6 +37,8 @@ See the current [CDF projects here](https://cd.foundation/projects/).
 
 The TOC communication happens via a public mailing list: https://lists.cd.foundation/g/cdf-toc
 
+The meeting agenda is hosted here: https://docs.google.com/document/d/1uBHar55fTInWF9Li4t0lyG3tTC8BRLU0FfBfsgk_Jrs/edit?ts=5c9580be#heading=h.en8cy6hno0c6
+
 The meeting minutes are here: [TOC Meeting Notes](docs/TOC_Meeting_Notes.md)
 
 The public calendar is here: https://calendar.google.com/calendar/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24%40group.calendar.google.com&ctz=America%2FLos_Angeles
