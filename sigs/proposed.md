@@ -4,7 +4,7 @@
 | ------------------------|-------------|-----------------------|--------------
 | Security | Security and supply chain integrity, traceability. Standards, specifications | Jenkins, Jenkins-x, Spinnaker, Tekton | Accepted
 | MLOps | Data and machine learning pipelines and model deployment. Standards, specifications, projects | Tekton, Kubeflow Pipelines, JenkinsX | Accepted
-| Interoperability | CI/CD Interoperability | Tekton, Kubeflow Pipelines, JenkinsX, Screwdriver.cd | Proposed
+| Interoperability | CI/CD Interoperability | Spinnaker, Jenkins, Tekton, JenkinsX, Screwdriver.cd | Proposed
 | Governance | TBD | TBD | 
 | TBD | TBD | TBD | 
 
