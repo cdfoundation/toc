@@ -79,7 +79,7 @@ Chairs and the TOC Sponsor of the SIG are
 
 Interoperability SIG communication happens via a public mailing list:
 
-*maillist TBD*
+https://lists.cd.foundation/g/sig-interoperability
 
 ## Meetings
 
