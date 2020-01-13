@@ -11,37 +11,292 @@ Logistics:
 -   Twitter:
     > [*https://twitter.com/CDeliveryFdn*](https://twitter.com/CDeliveryFdn)
 
-Dec 3, 2019 :
--------------
+December 17, 2019:
+------------------
 
 -   **TOC Attendees:**
 
-    -   Kohsuke Kawaguchi (Jenkins) \[CHAIR\] -
+    -   Kohsuke Kawaguchi (Jenkins) \[CHAIR\] - not present
 
-    -   James Strachan (Jenkins X) -
+    -   James Strachan (Jenkins X) - not present
 
-    -   Dan Lorenc (Tekton) -
+    -   Dan Lorenc (Tekton) - not present
 
-    -   Andy Glover (Spinnaker) -
+    -   Andy Glover (Spinnaker) - present
 
-    -   Tara Hernandez (Google) -
+    -   Tara Hernandez (Google) - present
 
-    -   Yoav Landman (JFrog) -
+    -   Yoav Landman (JFrog) - not present
 
 -   **Other Attendees:**
 
-    -   .
+    -   Dan Lopez (Linux Foundation)
+
+    -   Fatih Degirmenci (Ericsson Software Technology)
+
+    -   Kay Williams (Microsoft)
+
+    -   W. Watson - w.watson@vulk.coop (Vulk coop, cncf.ci, cnftestbed)
+
+-   **Agenda and Notes:**
+
+    -   SIG-Security (Kay)
+
+        -   Resume biweekly meetings (post holidays) - Tuesday Jan 14, 8
+            > AM Pacific
+
+        -   Supply Chain Security/Compliance
+
+            -   Readme
+                > [*here*](https://github.com/cdfoundation/sig-security-supply-chain)
+
+            -   Framework document
+                > [*here*](https://docs.google.com/document/d/1_5ZnoLzQ1AqMYzXZ_avbqILRgAsfuEnkL3TTbg9LfnU/edit?usp=sharing)
+
+![](media/image1.png){width="7.625in" height="2.2083333333333335in"}
+
+-   Software Bill of Materials (SBOM)
+
+    -   Readme here:
+        > [*https://github.com/cdfoundation/sig-security-sbom*](https://github.com/cdfoundation/sig-security-sbom)
+
+    -   SPDX from the LF is also involved
+
+    -   Draft standard submission date: February 24, 2020
+
+<!-- -->
+
+-   SIG-Interoperability
+
+    -   Proposed to CDF on November 19th.
+
+        -   Mail thread:
+            > [*https://lists.cd.foundation/g/cdf-toc/topic/60607236*](https://lists.cd.foundation/g/cdf-toc/topic/60607236)
+
+        -   PR:
+            > [*https://github.com/cdfoundation/toc/pull/62*](https://github.com/cdfoundation/toc/pull/62)
+
+    -   Voting started on December 12th.
+
+        -   Mail thread:
+            > [*https://lists.cd.foundation/g/cdf-toc/topic/68289307*](https://lists.cd.foundation/g/cdf-toc/topic/68289307)
+
+-   CD Summit @ Kubecon Europe/Amsterdam?
+
+    -   Is it planned to happen, eg. Day-0 event?
+
+    -   If so, when will the CFP be open?
+
+    -   DLop / JS to follow up with LF Kubecon Events team
+
+-   Other Technical Business
+
+    -   Screwdriver.cd PR:
+        > [*https://github.com/cdfoundation/toc/pull/63*](https://github.com/cdfoundation/toc/pull/63)
+
+        -   DLop: TOC request to merge
+
+        -   Tara: TOC to reach out the Jithine
+
+    -   Telemetry updates
+
+        -   Spinnaker
+
+            -   [*https://docs.google.com/document/d/1ipD3ZOFJrhL3mXvmLxGGnqtsik0axXSdOKk2T8vha4o/edit\#heading=h.aac2ptz9i8z1*](https://docs.google.com/document/d/1ipD3ZOFJrhL3mXvmLxGGnqtsik0axXSdOKk2T8vha4o/edit#heading=h.aac2ptz9i8z1)
+
+            -   Complete, baselined as PDF and published
+
+        -   Tekton
+
+            -   [*https://docs.google.com/document/d/1XSFu0mj\_u\_PjLMtQWsvVSBgJpBpf6ZyAp1FeCgNJo1g/edit*](https://docs.google.com/document/d/1XSFu0mj_u_PjLMtQWsvVSBgJpBpf6ZyAp1FeCgNJo1g/edit)
+
+            -   In progress
+
+            -   Tara will check with Tekton team to see where they are
+                > at(almost done??)
+
+        -   Jenkins
+
+            -   [*https://docs.google.com/document/d/1I\_s4DOoUaAJumJT1LqwIuzNrbH8tuE10Iia4QKWwRfk/edit?ts=5df79c21*](https://docs.google.com/document/d/1I_s4DOoUaAJumJT1LqwIuzNrbH8tuE10Iia4QKWwRfk/edit?ts=5df79c21)
+
+            -   In progress
+
+    -   Code Signing updates
+
+        -   Corporate verification under compliance review with
+            > Digicert, pending completion
+
+        -   Should hear back before holidays, DLop will send update via
+            > groups.io and github ticket to close out
+
+Nov 19, 2019 :
+--------------
+
+-   **TOC Attendees:**
+
+    -   Kohsuke Kawaguchi (Jenkins) \[CHAIR\] - present
+
+    -   James Strachan (Jenkins X) - not present
+
+    -   Dan Lorenc (Tekton) - present
+
+    -   Andy Glover (Spinnaker) - present
+
+    -   Tara Hernandez (Google) - present
+
+    -   Yoav Landman (JFrog) - present
+
+-   **Other Attendees:**
+
+    -   Fatih Degirmenci, Ericsson Software Technology
+
+    -   Alejandro Saucedo, Seldon / The Institute for Ethical AI &
+        > Machine Learning
+
+    -   Simon Kaegi, IBM
+
+    -   Katrin Runser
+
+    -   Kay Williams, SIG-Security, Microsoft
+
+    -   Kim Lewandowski, Google
+
+    -   Joel Friedman, Google
+
+    -   Jithin Emmanuel, Verizon Media
+
+    -   A
 
 -   **Agenda and Notes:**
 
     -   Recap of actions
 
+        -   Code signing certificate happened
+
+            -   Action: KK to ask Oleg to report back what they have and
+                > how other projects can join and use.
+
+            -   CDF will use Digicert as provider
+
+            -   New legal entity setup for code signing
+
     -   Landscape
 
-Nov 19, 2019 :
---------------
+        -   No pending PRs at the moment
 
-Replaced by various in-person meetings at Kubecon / CD Summit
+        -   It’s already public:
+            > [*https://github.com/cdfoundation/cdf-landscape*](https://github.com/cdfoundation/cdf-landscape)
+
+        -   Tara: how about adding Screwdriver.cd
+
+            -   Action: Jithin to create a PR
+
+    -   SIG-Security
+
+        -   Supply Chain
+
+            -   CD Summit slides
+                > [*here*](https://drive.google.com/open?id=11Zd9GW9YkfhMQ0gXpfjpfzRL65wJVIPe)
+
+            -   We now have GitHub repo, slack channel and list (thanks
+                > Dan Lopez!)
+
+                -   Slack: \#sig-security-supply-chain
+
+                -   Github:
+                    > [*https://github.com/cdfoundation/sig-security-supply-chain*](https://github.com/cdfoundation/sig-security-supply-chain)
+
+                -   List:
+                    > [sig-security-supply-chain@lists.cd.foundation](http://sig-security-supply-chain@lists.cd.foundation)
+
+            -   KubeCon Meetup - Thursday 9 AM to 12 PM
+
+                -   Agenda
+
+                    -   [*here*](https://docs.google.com/document/d/1IGYST0x-Xla0qZNk1ZfS1l9Om702-shUvhsBPUq4b9g/edit#)
+
+                -   On-site:
+
+                    -   Marriott Marquis, North Tower, 1st Floor
+
+                    -   Conference Room - Torrey Pines 3
+
+                        -   Kay: there is some extra expense to arrange
+                            > the necessary equipments. Will talk to Dan
+                            > to see how to reimburse that (Dan said to
+                            > send to operations@cd.foundation and
+                            > copy Jacque)
+
+                -   Remote:
+
+                    -   [*Join Microsoft Teams
+                        > Meeting*](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODdjZTk4OTItMzFkMS00NjJjLTg3NjctMGZjMzc4MmI5NTBm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22531852bd-66b0-45f7-abad-b1e0ad3b3a32%22%7d)
+
+                    -   +1 425-616-0754 United States, Seattle (Toll)
+
+            -   KK: in-toto presentation yesterday was great
+
+                -   Raj: is it going to be available somewhere? Jac: on
+                    > YouTube & GitHub CDF org
+
+    -   Roadmap WG
+
+        -   Vote concluded
+
+        -   **KK: need more people to join the brainstorming**
+
+        -   **KK: and then schedule the session**
+
+    -   Screwdriver.cd vote
+
+        -   **KK to send out one more reminder**
+
+        -   Big change from the last time was the growth plan
+
+        -   Dan: Two TOC sponsors are missing
+
+            -   KK and Tara volunteered to sponsor
+
+        -   Kim: is there a doc that captures the process? Yes, at
+            > [*here*](https://github.com/cdfoundation/toc/blob/master/PROJECT_LIFECYCLE.md)
+            > but this is the first time so we are also debugging on the
+            > fly
+
+    -   CD Summit presentations
+
+        -   [*https://github.com/cdfoundation/presentations/tree/master/2019-summit-sandiego*](https://github.com/cdfoundation/presentations/tree/master/2019-summit-sandiego)
+
+    -   AOB?
+
+        -   Kim: wrt CDF program plan & goals, how are we supporting
+            > different projects?
+
+            -   We should have interview sessions to hear out projects.
+
+                -   Infra spend, code signing c
+
+            -   Kim: did we present devstats?
+
+                -   KK: I don’t think so.
+
+        -   Jac: we’d like to see annual report of what projects have
+            > delivered?
+
+            -   Goals are to help marketing and keep sponsors happy
+
+            -   Jac: I’d love to hear where they need help \[so that the
+                > rest of the org can rally around\]
+
+        -   We want to have a closed-to-final version \[of the annual
+            > report\] within this year, to be published early next year
+
+            -   Kim: is there a version from CNCF that we can use as a
+                > reference?
+                > [*Yes*](https://www.cncf.io/cncf-annual-report-2018/)
+
+        -   &lt;&lt; Round table in-person intro &gt;&gt;
+
+    -   
 
 Nov 5, 2019 :
 -------------
