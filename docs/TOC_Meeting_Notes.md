@@ -11,6 +11,224 @@ Logistics:
 -   Twitter:
     > [*https://twitter.com/CDeliveryFdn*](https://twitter.com/CDeliveryFdn)
 
+January 14, 2020:
+-----------------
+
+-   **TOC Attendees:**
+
+    -   Kohsuke Kawaguchi (Cloudbees/Jenkins) \[CHAIR\] - present
+
+    -   James Strachan (Cloudbees/Jenkins X) - not present
+
+    -   Dan Lorenc (Google/Tekton) - not present
+
+    -   Andy Glover (Netflix/Spinnaker) - not present
+
+    -   Tara Hernandez (Google) - present
+
+    -   Yoav Landman (JFrog) - not present
+
+-   **Other Attendees:**
+
+    -   Dan Lopez (Linux Foundation) - present
+
+    -   Fatih Degirmenci (Ericsson Software Technology)
+
+    -   David Lai - (Futurewei, CDF Governing Board)
+
+    -   Katrin Runser (JFrog)
+
+-   **Agenda and Notes:**
+
+    -   SIG-Interoperability (Fatih)
+
+        -   Voting started on December 12th.
+
+            -   Mail thread:
+                > [*https://lists.cd.foundation/g/cdf-toc/topic/68289307*](https://lists.cd.foundation/g/cdf-toc/topic/68289307)
+
+        -   +1 binding TOC votes (6/6)
+
+            -   Dan Lorenc:
+                > [*https://lists.cd.foundation/g/cdf-toc/message/312*](https://lists.cd.foundation/g/cdf-toc/message/312)
+
+            -   Andy Glover:
+                > [*https://lists.cd.foundation/g/cdf-toc/message/316*](https://lists.cd.foundation/g/cdf-toc/message/316)
+
+            -   Yoav Landman:
+                > [*https://lists.cd.foundation/g/cdf-toc/message/317*](https://lists.cd.foundation/g/cdf-toc/message/317)
+
+            -   Tara Hernandez:
+                > [*https://lists.cd.foundation/g/cdf-toc/message/318*](https://lists.cd.foundation/g/cdf-toc/message/318)
+
+            -   Kohsuke Kawaguchi:
+                > [*https://lists.cd.foundation/g/cdf-toc/message/325*](https://lists.cd.foundation/g/cdf-toc/message/325)
+
+            -   James Strachan:
+                > [*https://lists.cd.foundation/g/cdf-toc/message/327*](https://lists.cd.foundation/g/cdf-toc/message/327)
+
+        -   +1 non-binding community votes
+
+            -   Michael Winser:
+                > [*https://lists.cd.foundation/g/cdf-toc/message/313*](https://lists.cd.foundation/g/cdf-toc/message/313)
+
+            -   Avi Kessner:
+                > [*https://lists.cd.foundation/g/cdf-toc/message/314*](https://lists.cd.foundation/g/cdf-toc/message/314)
+
+            -   Tracy Miranda:
+                > [*https://lists.cd.foundation/g/cdf-toc/message/319*](https://lists.cd.foundation/g/cdf-toc/message/319)
+
+            -   Alejandro Saucedo:
+                > [*https://lists.cd.foundation/g/cdf-toc/message/326*](https://lists.cd.foundation/g/cdf-toc/message/326)
+
+        -   Mail thread/PR
+
+            -   Mail thread:
+                > [*https://lists.cd.foundation/g/cdf-toc/topic/60607236*](https://lists.cd.foundation/g/cdf-toc/topic/60607236)
+
+            -   PR:
+                > [*https://github.com/cdfoundation/toc/pull/62*](https://github.com/cdfoundation/toc/pull/62) -
+                > Merged (DLopez)
+
+        -   Next steps?
+
+            -   Merging the PR
+
+                -   TOC member or Dan Lopez can merge once TOC confirms
+                    > with votes
+
+                -   Dan Lopez merged:
+                    > [*https://github.com/cdfoundation/toc/blob/master/sigs/sig-interoperability.md*](https://github.com/cdfoundation/toc/blob/master/sigs/sig-interoperability.md)
+
+            -   Logistics:
+
+                -   Repos
+
+                    -   [*https://github.com/cdfoundation/sig-Interoperability*](https://github.com/cdfoundation/sig-Interoperability)
+
+                -   Maillist
+
+                    -   [*https://lists.cd.foundation/g/sig-interoperability*](https://lists.cd.foundation/g/sig-interoperability)
+
+                -   Slack channel
+
+                    -   \#sig-interoperability
+
+                -   Zoom access
+
+                    -   Every (?) Thursday? Of the month
+
+                    -   Survey is setup:
+                        > [*https://www.surveymonkey.com/r/5X6GXPM*](https://www.surveymonkey.com/r/5X6GXPM)
+
+                    -   Once this is determined, Dan Lopez can setup the
+                        > conf line
+
+                -   should we create issues in CDF Github for these?
+
+                    -   Issues related to SIG should be created in the
+                        > respective repo. CDF support required then the
+                        > issue should be placed on the foundation
+                        > service desk repo
+
+        -   FD: Thanks Dan for getting all the logistics sorted out in
+            > the last few days
+
+        -   FD: I’m in the process of figuring out the meeting slot
+            > & frequency. Hopefully wrapping that up by Sunday and the
+            > first meeting the next week
+
+        -   FD: still looking for more participants to the ML.
+
+    -   SIG Security (Kay)
+
+        -   &lt;&lt; skipped &gt;&gt;
+
+    -   Projects
+
+        -   DLz: Screwdriver
+
+            -   Move screwdriver.cd folder in /proposals to /incubating
+                > folder in toc repo?
+
+            -   Meeting this Friday 9am PT for IP / asset transfer
+                > discussion
+
+        -   KK: what about Jenkins transfer?
+
+            -   DLz: let’s recap the context again and we’ll go from
+                > there
+
+            -   Funding, IP, infra, ...
+
+    -   Other Business
+
+        -   Project Service Service Desk -
+            > [*https://cd.foundation/project-services/*](https://cd.foundation/project-services/)
+
+            -   DLz: this provides better tracking of the work for
+                > the foundation. Mostly manned by me and Jac
+
+            -   KK: shall we create tickets for Jenkins transfer & infra
+                > here? DLz: yes
+
+        -   2020 Incubating Project recruiting:
+            > [*https://github.com/cdfoundation/toc/blob/master/PROJECT\_LIFECYCLE.md\#project-proposal-requirements*](https://github.com/cdfoundation/toc/blob/master/PROJECT_LIFECYCLE.md#project-proposal-requirements)
+
+            -   DLz: GB meeting talked about project recruiting.
+
+            -   Tara: DLc and I have been talking with Kaptn around
+                > “event management.” Hoping DLc will be back from the
+
+        -   Tara: I think the roadmap work has landed but PR has not
+            > been merged. I’m flagging this
+
+        -   Tara: I had a meeting over a break to meet with “process
+            > oriented folks” — that led to Resiliency SIG. Working on
+            > a PR. Expect to hear updates the next month.
+
+            -   DLz: DoD might become a member, with projects.
+                > “Hardedend repo for K8s” and something
+                > something resiliency. Might be useful connecting dots
+                > with the above.
+
+        -   Annual Report 2019 - Draft review (Jacque S to send out)
+
+            -   DLz: wrapping up a final draft, please review.
+
+            -   DLz: We need numbers from JX — contirbutor numbers. KK:
+                > send that to me & Tracy Miranda.
+
+        -   [*CDF Cluster*](https://github.com/cdfoundation/cluster)
+
+            -   Bare metal cluster provided by Packet (now Equinox.)
+
+                -   KK: would be good to connect infra-focused people
+                    > across various projects.
+
+                -   DLz: this is used extensively by CNCF
+
+        -   CFP Committee
+
+            -   Jac: CD Summit Amsterdam — Christie Wilson sent out a
+                > CfP email yesterday as a chair. Outreach committee
+                > already knows. Feel free to pass it on. (CfP ends?)
+                > Feb 7th. And notification goes out Feb 14th.
+
+            -   Jac: Emily is our event manager. If you are interested
+                > in sponsors, talk to her.
+
+                -   Mindshare cocktail hour in Kubecon US was
+                    > very successful. Want to replicate that if you are
+                    > looking to sponsor that &lt;wink wink&gt;
+
+                -   Jac: this year we will look more proactively for
+                    > sponsors
+
+            -   KK: will forward those to Jenkins contributors & users
+
+        -   
+
 December 17, 2019:
 ------------------
 
