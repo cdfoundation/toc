@@ -13,3 +13,4 @@ TOC will identify at least one voting member as TOC Liason for each [proposed SI
 
 * [Security](https://github.com/cdfoundation/sig-security)
 * [MLOps](https://github.com/cdfoundation/sig-mlops)
+* [Interoperability](https://github.com/cdfoundation/sig-Interoperability)
