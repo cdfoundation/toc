@@ -7,9 +7,9 @@ Please contribute your project proposal to this folder by adding your proposal v
 
 Project Proposal List:
 
- - <project name / link> - <Proposed Date>
+ - <project name / link> - proposed_date_MM.DD.YYYY
 
 Project Incubating Approved:
 
- - [Screwdriver](screwdriver/screwdriver.md) - Approved for Incubating Dec 17 2019 by TOC
+ - [Screwdriver](screwdriver/screwdriver.md) - Approved for Incubating 12.17.2019 by TOC
  
