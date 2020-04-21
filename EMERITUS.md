@@ -1,4 +1,4 @@
-# TOC Contributors Emeritus [DRAFT]
+# TOC Contributors Emeritus
 
 We would like to acknowledge previous TOC members and their huge contributions to our collective success:
 
