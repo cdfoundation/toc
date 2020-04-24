@@ -38,3 +38,10 @@ The MLOps SIG meets every other week at 9:30 AM Pacific, on Thursdays
 Meeting agendas and minutes are here: TBD
 
 Download this invitation to add the meeting to your calendar: https://zoom.us/meeting/u5Iqduutpj8o7fVIT1pePLk5wv4H9XpojQ/ics
+
+AND
+
+For APAC / Oceania, the MLOps SIG meets every other week on Thursdays, at 10:00 UTC (*See your timezone [here](https://time.is/1000_in_UTC)*)
+
+
+-- [Zoom Meeting Link](https://zoom.us/j/95182588714?pwd=UVVUbVFHZWtDQytvNnJ3S3RUL09HQT09)
