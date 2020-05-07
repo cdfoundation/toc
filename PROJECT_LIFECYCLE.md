@@ -109,7 +109,8 @@ To graduate from Incubating status, a project must meet the Incubation stage cri
  * Explicitly define a project governance and committer process. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and OWNERS.md file showing the current and emeritus committers.
  * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
  * Other metrics as defined by the applying Project during the application process in cooperation with the TOC.
- * Receive a 2/3 supermajority vote from the TOC to move to Graduated stage. 
+ * Have achieved and maintained a [Core Infrastructure Initiative Best Practices Badge/(https://bestpractices.coreinfrastructure.org/).
+ * Receive a 2/3 supermajority vote from the TOC to move to Graduated stage.
  
 ### Emeritus Stage (Archive)
 

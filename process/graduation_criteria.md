@@ -26,7 +26,6 @@ To graduate from sandbox or incubating status, or for a new project to join as a
 
  - Have committers from at least two organizations.
  - Have achieved and maintained a Core Infrastructure Initiative Best Practices Badge.
- - Have completed an independent and third party security audit with results published of similar scope and quality as the following example (including critical vulnerabilities addressed): https://github.com/envoyproxy/envoy#security-audit and all critical vulnerabilities need to be addressed before graduation.
  - Adopt the CDF Code of Conduct.
  - Explicitly define a project governance and committer process. This preferably is laid out in a GOVERNANCE.md file and references an OWNERS.md file showing the current and emeritus committers.
  - Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website). For a specification, have a list of adopters for the implementation(s) of the spec.
