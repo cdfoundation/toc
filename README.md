@@ -19,9 +19,9 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 ## Members
 
 * Dan Lorenc (Tekton) [Chair] - 03/1/2020 to 02/28/2021  [TOC-appointed]
-* Kohsuke Kawaguchi (Jenkins) - 03/1/2020 to 02/29/2021  [GB-appointed]
-* James Strachan (Jenkins-X) - 03/1/2020 to 02/29/2021  [GB-appointed]
-* Isaac Mosquera (Spinnaker) - 08/1/2020 to 02/29/2021  [TOC-appointed]
+* Kohsuke Kawaguchi (Jenkins) - 03/1/2020 to 02/28/2021  [GB-appointed]
+* James Strachan (Jenkins-X) - 03/1/2020 to 02/28/2021  [GB-appointed]
+* Isaac Mosquera (Spinnaker) - 08/1/2020 to 02/28/2021  [TOC-appointed]
 * Tara Hernandez (Google) - 05/1/2020 to 04/30/2021 [TOC-appointed]
 * Yoav Landman (JFrog) - 04/20/2020 to 04/30/2021 [TOC-appointed]
 * Jithin Emanuel (Verizon Media) - 03/1/2020 to 02/28/2021 [TOC-appointed]
