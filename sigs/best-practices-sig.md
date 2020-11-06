@@ -1,7 +1,13 @@
+# CDF Best Practices SIG
+
+## Overview
+
 Continuous Delivery is a goal for many organizations. Research shows that implementing continuous delivery practices boosts  organizational performance as well as strengthens organization culture. 
 Nevertheless, today every organization that wants to achieve that is forced to go through the same cycle of trial and error and expensive learning before they can reach that goal. What makes this especially painful is the fact that many of the lessons that organizations end up learning were lessons that others had already learned before. For example lessons such as:
-What are good strategies for reducing blast radius of software changes?
-How can canaries help increase confidence in the delivery workflow?
+- What are good strategies for reducing blast radius of software changes?
+- How can canaries help increase confidence in the delivery workflow?
+
+Video: https://youtu.be/iw7_2ZEutHE
 
 # Opportunities and Goals
 
@@ -25,9 +31,19 @@ The effort should be open to all involved in the field of software delivery.
 Within CDF it is essential we engage our broader community including:
 
 - Open source project communities (e.g. Jenkins, Spinnaker, Tekton, Jenkins X & other OSS communities)
-- CDF Ambassadors
+- [CDF Ambassadors](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
 - CDF Special Interest Groups (e.g. Interoperability working group)
-- CDF Member companies
-- CDF End User Council participants 
+- [CDF Member companies](https://cd.foundation/members/)
+- [CDF End User Council](https://cd.foundation/end-user-council/) participants 
 
 To achieve this it is proposed this effort is structured as a CDF Special Interest Group; the 'Best Practices SIG'. 
+
+# Governance
+SIG Best Practices is a [CDF Special Interest Group](https://github.com/cdfoundation/toc/tree/master/sigs).
+
+Chairs and the TOC Sponsor of the SIG are:
+- TBD
+
+# Members
+- [Tracy Miranda / CDF](http://twitter.com/tracymiranda)
+- [Mauricio Salatino / Camunda / LearnK8s](http://twitter.com/salaboy)
