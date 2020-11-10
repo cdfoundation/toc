@@ -42,7 +42,7 @@ To achieve this it is proposed this effort is structured as a CDF Special Intere
 SIG Best Practices is a [CDF Special Interest Group](https://github.com/cdfoundation/toc/tree/master/sigs).
 
 Chairs and the TOC Sponsor of the SIG are:
-- TBD
+- [Tara Hernandez / Google](https://twitter.com/tequilarista)
 
 # Members
 - [Tracy Miranda / CDF](http://twitter.com/tracymiranda)
