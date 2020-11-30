@@ -49,40 +49,18 @@ interoperability between tools
 
 ## Members
 
-* Andy Glover (Netflix)
-* Christie Wilson (Google)
-* Fatih Degirmenci (Ericsson Software Technology)
-* FuQiao (China Mobile)
-* Kara de la Marck (Cloudbees)
-* Priyanka Sharma (Gitlab)
-* Thanh Ha (Lumina Networks)
-* Tracy Miranda (Cloudbees)
-* Wavel Watson (Vulk Coop)
+Members of this SIG can be viewed [here](https://github.com/cdfoundation/sig-interoperability#members)
 
 ## Governance
 
 SIG Interoperability is a [CDF Special Interest Group](https://github.com/cdfoundation/toc/tree/master/sigs).
 
-* Charter - *TBD*
-* Roles - *TBD*
-* Process - *TBD*
-
-Charter, roles, and process of the SIG will be documented and made available once the SIG is operational.
-
-Chairs and the TOC Sponsor of the SIG are
-
-* Fatih Degirmenci (Ericsson Software Technology) - Chair
-* *TBD* - Co-chair
-* Dan Lorenc (Google) - TOC Sponsor
+Governance details for this SIG can be found [here](https://github.com/cdfoundation/sig-interoperability#governance)
 
 ## Communication
 
-Interoperability SIG communication happens via a public mailing list:
-
-https://lists.cd.foundation/g/sig-interoperability
+Communication details for this SIG can be found [here](https://github.com/cdfoundation/sig-interoperability#communication)
 
 ## Meetings
 
-The Interoperability SIG meets every other week at/on *TBD*.
-
-Meeting agendas and minutes are here: *TBD*
+Meeting details and minutes are here: [here](https://github.com/cdfoundation/sig-interoperability#meetings)
