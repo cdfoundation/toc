@@ -49,7 +49,7 @@ The community also uses [Slack for additional collaboration opportunities](https
 ## Documents
 * [Principles](PRINCIPLES.md)
 * [Project Lifecycle](PROJECT_LIFECYCLE.md)
-* [Code of Conduct](CODE_OF_CONDUCT.md)
+* [Code of Conduct](https://github.com/cdfoundation/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## Project Guidance
 
