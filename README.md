@@ -55,4 +55,4 @@ The community also uses [Slack for additional collaboration opportunities](https
 
 * [Copyright notice recommendations](https://github.com/cdfoundation/foundation/blob/master/copyright.md)
 * [Project Website guidelines](https://github.com/cdfoundation/foundation/blob/master/project-website-guidelines.md) for mentioning companies while maintaining neutrality
-* [Telemetry and Data Collection Policy](https://www.linuxfoundation.org/telemetry-data-policy/)
+* [Telemetry and Data Collection Policy](https://www.linuxfoundation.org/telemetry-data-collection-and-usage-policy/)
