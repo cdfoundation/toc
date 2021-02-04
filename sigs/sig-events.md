@@ -34,10 +34,10 @@ The group aims to provide reference implementations such as event listeners and 
 * Steve Taylor (DeployHub)
 * Tracy Ragan (DeployHub)
 
-TOC Sponsor: \<TBD\>
+TOC Sponsor: Isaac Mosquera
 
 ## Communication
 Communication in this SIG is primarily done through its [Slack channel](https://cdeliveryfdn.slack.com/archives/C0151BTKEJX)
 
 ## Meetings
-The SIG meets on the 1st and 3rd Monday, at 4 PM CET. Meeting notes can be seen [here](https://github.com/cdfoundation/sig-interoperability/blob/master/workstreams/events_in_cicd/meetings.md)
+The SIG meets on the 1st and 3rd Monday of each month, at 4 PM CET. Meeting notes can be seen [here](https://github.com/cdfoundation/sig-interoperability/blob/master/workstreams/events_in_cicd/meetings.md)
