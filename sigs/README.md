@@ -16,3 +16,4 @@ More details regarding SIG processes can be seen on [this link](https://github.c
 * [Security](https://github.com/cdfoundation/sig-security)
 * [MLOps](https://github.com/cdfoundation/sig-mlops)
 * [Interoperability](https://github.com/cdfoundation/sig-interoperability)
+* [Events](https://github.com/cdfoundation/sig-events)
