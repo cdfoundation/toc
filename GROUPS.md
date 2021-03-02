@@ -113,3 +113,15 @@ The SIG is disbanded under the following conditions:
 * The SIG is no longer required or relevant. It has accomplished all desired goals.
 * The Sponsor decides the Working Group is no longer required or effective.
 * Attendance consistently drops below the requirement of 3 participating companies, as assessed by the sponsor or TOC.
+
+### SIG Onboarding Checklist
+
+This is the checklist for new SIGs
+ * Create github repo
+ * Create github team for the sig (cochairs should manage the team)
+ * Create slack channel (or rename existing channel to reflect sig name)
+ * Create groups.io mailing list
+ * SIG co-chairs to get access to CDF calendar to modify events
+ * Create SIG playlist on Youtube
+ * Announcement blog post/press release 
+ * Recommend scheduling a podcast: https://cd.foundation/podcast/
