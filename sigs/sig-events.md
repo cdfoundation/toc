@@ -30,4 +30,4 @@ TOC Sponsor: Isaac Mosquera
 Communication in this SIG is primarily done through its [Slack channel](https://cdeliveryfdn.slack.com/archives/C0151BTKEJX)
 
 ## Meetings
-The SIG meets on the 1st and 3rd Monday of each month, at 16:00UTC. See our [group charter](16:00UTC) for details.
+The SIG meets on the 1st and 3rd Monday of each month, at 16:00UTC. See our [group charter](https://github.com/cdfoundation/sig-events#meetings) for details.
