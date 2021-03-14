@@ -22,17 +22,7 @@ The group is working on a standardized event protocol that caters for technology
 The group aims to provide reference implementations such as event listeners and event senders on top of CloudEvents.
 
 ## Members
-*In alphabetical order, except for the chairs*
-* Andrea Fritolli (IBM) - Co-chair
-* Emil Bäckmark (Ericsson) - Co-chair
-* Andreas Grimmer (Dynatrace)
-* Cameron Motevasselani (Armory)
-* Erik Sternerson (doWhile)
-* Mattias Linnér (Ericsson)
-* Mauricio Salatino (Camunda / LearnK8s)
-* Ravi Lachhman (Harness)
-* Steve Taylor (DeployHub)
-* Tracy Ragan (DeployHub)
+Members of this SIG can be viewed [in the sig-events repo](https://github.com/cdfoundation/sig-events#members)
 
 TOC Sponsor: Isaac Mosquera
 
@@ -40,4 +30,4 @@ TOC Sponsor: Isaac Mosquera
 Communication in this SIG is primarily done through its [Slack channel](https://cdeliveryfdn.slack.com/archives/C0151BTKEJX)
 
 ## Meetings
-The SIG meets on the 1st and 3rd Monday of each month, at 4 PM CET. Meeting notes can be seen [here](https://github.com/cdfoundation/sig-interoperability/blob/master/workstreams/events_in_cicd/meetings.md)
+The SIG meets on the 1st and 3rd Monday of each month, at 16:00UTC. See our [group charter](16:00UTC) for details.
