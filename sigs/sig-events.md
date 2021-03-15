@@ -26,8 +26,14 @@ Members of this SIG can be viewed [in the sig-events repo](https://github.com/cd
 
 TOC Sponsor: Isaac Mosquera
 
+## Governance
+
+SIG Events is a [CDF Special Interest Group](https://github.com/cdfoundation/toc/tree/master/sigs).
+
+Governance details for this SIG can be found [here](https://github.com/cdfoundation/sig-events#governance)
+
 ## Communication
 Communication in this SIG is primarily done through its [Slack channel](https://cdeliveryfdn.slack.com/archives/C0151BTKEJX)
 
 ## Meetings
-The SIG meets on the 1st and 3rd Monday of each month, at 16:00UTC. See our [group charter](https://github.com/cdfoundation/sig-events#meetings) for details.
+The SIG meets on the 1st and 3rd Monday of each month, at 15:00UTC. See our [group charter](https://github.com/cdfoundation/sig-events#meetings) for details.
