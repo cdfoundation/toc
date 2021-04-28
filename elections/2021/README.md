@@ -8,6 +8,19 @@ The role of this election is to elect the following Technical Oversight Committe
    * Two (2) General seats 
       * Anyone meeting the candidate criteria may run for these seats. These seats are elected by the CDF Governing Board.
 
+## TOC Overview
+
+The role of the elected TOC representatives is to facilitate communication and collaboration among the Techical Projects. The TOC will be responsible for:
+  - i) coordinating collaboration among Technical Projects, including development of an overall technical vision for the community;
+
+  - ii) making recommendations to the Budget Committee of resource priorities for Technical Projects;
+
+ -  iii)  electing annually a chairperson to preside over meetings, set the agenda for meetings, ensure meeting minutes are taken and who will also serve on the Governing Board as the TOC’s representative (the "TOC Representative");
+
+  - iv)  creating, maintaining and amending project lifecycle and work group procedures and processes
+  
+  - v) helping meet the project related goals set out for the CD.Foundation by the Governing board
+
 ## Timeline
 
 | Date  | Event | Details  |
