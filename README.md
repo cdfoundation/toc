@@ -25,6 +25,7 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 * Tara Hernandez (Google) - 05/1/2020 to 04/30/2021 [TOC-appointed]
 * Yoav Landman (JFrog) - 04/20/2020 to 04/30/2021 [TOC-appointed]
 * Jithin Emanuel (Verizon Media) - 03/1/2020 to 02/28/2021 [TOC-appointed]
+* Fatih Degirmenci (Ericsson) - 1 April 2021 to 31 March 2022 [End-user-appointed]
 
 Updated website for TOC: https://cd.foundation/about/toc/
 
