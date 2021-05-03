@@ -51,7 +51,7 @@ The TOC will be responsible for:
   	-	i. commit that they have the available bandwidth to make the time to invest in the CDF TOC,
   	-	ii. technical background with experience of continuous delivery and open source technologies 
   	-	iii. good communication skills with experience of participating in open source communities 
-   -   iv. operate neutrally in discussions and put the goals and success of CDF in balance with corporate objectives or any particular project in CDF.
+    - iv. operate neutrally in discussions and put the goals and success of CDF in balance with corporate objectives or any particular project in CDF.
 
 ## Voter Eligibility
   * Project seats
