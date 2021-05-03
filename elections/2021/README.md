@@ -46,7 +46,7 @@ The TOC will be responsible for:
 
 ## Candidates Eligibility
 
-  * Project seats - each CDF project nominates one representative to run for a project seat.  The candidate should meet the criteria listed below (in general seats) and ideally will be part of the projects governing board or technical steering committee (but this is not a strict requirement). Each project is free to appoint its representative in whichever manner fits best for their community. 
+  * Project seats - each CDF project nominates one representative to run for a project seat.  The candidate should meet the criteria listed below (in general seats) and ideally will be part of the projects governing board or technical steering committee (but this is not a strict requirement). Each project is free to choose its candidate in whichever manner fits best for their community. 
   * General seats - these are open to any individual who meets the following criteria
   	-	i. commit that they have the available bandwidth to make the time to invest in the CDF TOC,
   	-	ii. technical background with experience of continuous delivery and open source technologies 
@@ -54,5 +54,19 @@ The TOC will be responsible for:
     - iv. operate neutrally in discussions and put the goals and success of CDF in balance with corporate objectives or any particular project in CDF.
 
 ## Voter Eligibility
-  * Project seats
+  * Project seats - eligible voters will be
+     - People who had at least 20 contributions to any CDF project over the past year (prior to May 1 2021), via data in [devstats][https://allcdf.devstats.cd.foundation/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All&var-country_name=All], LFX Insights & Github Insights. 
+     - People who have submitted the voter exemption form and are accepted by the election officers. This is to ensure we have voters whose contributions may not be captured in Github. Individuals are able to submit voter form on behalf of other individuals. 
   * General seats - these will be voted on by members of the CDF governing board  
+
+## Voting Process
+Individuals listed in [voters.md] will receive a ballot via email. If you are
+not on that list you can use the [voter exemption form] to ask
+to participate in the election.
+
+Elections will be held using time-limited OPA Vote. The 4 top vote getters will be elected to the open seats.
+
+## Election Officers
+
+- Gale McCommons, Linux Foundation
+- Tracy Miranda, Continuous Delivery Foundation
