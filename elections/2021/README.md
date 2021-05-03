@@ -35,10 +35,12 @@ The TOC will be responsible for:
 
 | Date  | Event | Details  |
 | ----- | ----- | -------- |
-| May 3 | Nominations open | Projects begin choosing candidates. General seat nominations open |
-| May 14 | Nominations close | Deadline for general and project nominations |
-| May 21 | Candidates announced | Nominated candidates profiles made public |
-| May 24 | Voting opens | Ballots are sent to eligible voters | 
+| May 5 | Nominations open | Projects begin choosing candidates. General seat nominations open |
+| May 14 | Project seats Nominations in | Deadline for project nominations |
+| May 14 | General seats Nominations in | Deadline for general nominations |
+| May 24 | Voter registration closes | Closing date to register to vote |
+| May 28 | Candidates announced | Nominated candidates profiles made public |
+| May 28 | Voting opens | Ballots are sent to eligible voters | 
 | June 11 | Voting closes | Last day to submit a ballot | 
 | June 23 | Announcement | Successful representatives announced | 
 | July 1 | Term Begins | New reps beging their term | 
