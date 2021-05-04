@@ -1,4 +1,4 @@
-For any feedback or corrections (e.g. bot accounts, duplicates) please contact 
+For any feedback or corrections (e.g. bot accounts, duplicates) please contact the Election Officers 
 
 ### Voters with No Email
 
