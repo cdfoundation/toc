@@ -67,8 +67,8 @@ not on that list you can use the [voter registration form]() to ask
 to participate in the election.
 
 Elections will be held using time-limited, ranked voting via OPA Vote. 
-The 4 top vote getters for project elections will be elected to the Project seats.
-The 2 top vote getters for general elections will be elected to the General seats.
+ * The 4 top vote getters for project elections will be elected to the Project seats.
+ * The 2 top vote getters for general elections will be elected to the General seats.
 
 ## Election Officers
 
