@@ -62,7 +62,7 @@ The TOC will be responsible for:
   * General seats - these will be voted on by members of the [CDF governing board](https://cd.foundation/about/governing-board/)  
 
 ## Voting Process
-Individuals listed in [voters.md]() will receive a ballot via email. If you are
+Individuals listed in [voters.md](voters.md) will receive a ballot via email. If you are
 not on that list you can use the [voter registration form]() to ask
 to participate in the election.
 
