@@ -57,8 +57,8 @@ The TOC will be responsible for:
 
 ## Voter Eligibility
   * Project seats - eligible voters will be
-     - People who had at least 50 contributions to any CDF project over the past year (prior to May 1 2021), via data in [devstats](https://allcdf.devstats.cd.foundation/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All&var-country_name=All) and [LFX Insights](https://insights.lfx.linuxfoundation.org/projects/cdf-f/active-contributor?time=%7B%22from%22:%22now-1y%22,%22type%22:%22datemath%22,%22to%22:%22now%22%7D). 
-     - People who have submitted the voter exemption form and are accepted by the election officers. This is to ensure we have voters whose contributions may not be captured through above methodology. Individuals are able to submit voter form on behalf of other individuals. 
+     - People who had 10 or more commits to any CDF project over the past year (prior to May 1 2021), via data in [LFX Insights](https://insights.lfx.linuxfoundation.org/projects/cdf-f/active-contributor?time=%7B%22from%22:%22now-1y%22,%22type%22:%22datemath%22,%22to%22:%22now%22%7D). 
+     - People who have submitted the voter exemption form and are accepted by the election officers. This is to ensure we have voters whose contributions may not be captured through the above methodology. Individuals are able to submit voter form on behalf of other individuals. 
   * General seats - these will be voted on by members of the [CDF governing board](https://cd.foundation/about/governing-board/)  
 
 ## Voting Process
