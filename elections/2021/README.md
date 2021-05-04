@@ -55,6 +55,10 @@ The TOC will be responsible for:
   	-	iii. good communication skills with experience of participating in open source communities 
     - iv. operate neutrally in discussions and put the goals and success of CDF in balance with corporate objectives or any particular project in CDF.
 
+## Candidate Nominations
+   * Project seats - project representatives will be contacted to nominate their candidate. 
+   * General seats - please fill out the [TOC General Seats Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSdFhcdxv0Hc5ask4OU2foqZgYW1PSWK5TMbcv-txpfd8urrWg/viewform). Anyone may nominate a candidate and self-nominations are accepted.  
+
 ## Voter Eligibility
   * Project seats - eligible voters will be
      - People who had 10 or more commits to any CDF project over the past year (prior to May 1 2021), via data in [LFX Insights](https://insights.lfx.linuxfoundation.org/projects/cdf-f/active-contributor?time=%7B%22from%22:%22now-1y%22,%22type%22:%22datemath%22,%22to%22:%22now%22%7D). 
