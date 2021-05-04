@@ -1,6 +1,499 @@
+For any feedback or corrections (e.g. bot accounts, duplicates) please contact 
 
 ### Voters with No Email
 
 The following voters are members with sufficient contributions to vote, but have no email address attached to their git commits.  As such, we will be unable to mail them ballots. 
 
+- Yulia Gaponenko
+
 ### Eligible Voters
+
+- A Groshek
+- A. Jard
+- â€œCarbonetesâ€
+- â€œmitkamaâ€
+- Ãlvaro Iradier
+- Aaron Fay
+- accelq
+- Adam Jordens
+- Aditya Sirish
+- adiv sukonik
+- Adrien Lecharpentier
+- ads14331
+- Advinst
+- Ahmed Musallam
+- Aimee Ukasick
+- aiotcms
+- Akram Ben Aissi
+- Alan
+- Alan Dong
+- Alan Greene
+- Alan Quach
+- Aleksi Simell
+- Alex Earl
+- Alexandre Gomes
+- Alexandru Maxim
+- alfian-sken
+- Ali Karaca
+- aliaandersen
+- Allan Burdajewicz
+- allisaurus
+- Alon Chanukov
+- Alvin Stanescu
+- Amine Mesbahi
+- andau
+- Andrea Frittoli
+- andreas
+- Andreas Mandel
+- Andreas Stiglmeier
+- Andrei Zuica
+- Andrew Bayer
+- ankitm123
+- Anton Horodchuk
+- Anton Krasovsky
+- Antonio MuÃ±iz
+- aravindmd
+- Ã–rjan SjÃ¶holm
+- Arnaud HeÌritier
+- Arnaud TAMAILLON
+- arne
+- aroberts
+- Arthur Pessoa
+- Asif Shaikh
+- atdigdug
+- Ayan Goel
+- Aytunc BEKEN
+- Baptiste Mathus
+- Bar Belity
+- Basil Crow
+- Bastian Germann
+- Ben Fletcher
+- benebsiny
+- Benedikt Spranger
+- bertold
+- Bertold Kolics
+- Bilal Al-Shahwany
+- Bill Collins
+- Billy Lynch
+- blesuer
+- brian
+- bruno.cantisano
+- bryanateoan
+- bsudhir9383
+- Cai Cooper
+- Cameron Braid
+- Cameron Fieber
+- Cameron Motevasselani
+- Carolyn Mabbott
+- Carroll Chiou
+- Casey Duquette
+- caseyhebebrand
+- Cedric Ziel
+- Cesar Augusto Sanchez
+- Chiarng Lin
+- chillaq
+- chini mukhopadhyay
+- Chinikins
+- Chmouel Boudjnah
+- Chris Berry
+- Chris Kilding
+- Chris Mellard
+- Chris Smalley
+- Chris Thielen
+- Christian Del Monte
+- Christie Wilson
+- Christopher Orr
+- Clarck Robinson
+- Conrad Fripp
+- Cory Bennett
+- Cyrille Le Clerc
+- Damian Sniezek
+- Damian Szczepanik
+- Damian Szczepanik
+- Damien Coraboeuf
+- Dan Lorenc
+- Dana Maxfield
+- Daniel Anechitoaie
+- Daniel Beck
+- Daniel Heid
+- Daniel Helfand
+- Daniel Peach
+- Daniel Reynaud
+- Daniel Rodriguez Hernandez
+- DarÃ­o Villadiego
+- Dave Dorbin
+- Dave Gallant
+- David Byron
+- David Conneely
+- David Schott
+- Dennis Gu
+- Dennis Gu
+- Denys Digtiar
+- Devin Nusbaum
+- Dibyo Mukherjee
+- DieAkuteSense
+- Diego Campos
+- Dima Brusilovsky
+- Dimitri Tenenbaum
+- Divyansh42
+- Divyesh Chandra
+- DKL
+- dlorenc
+- Dmitriy Shamatrin
+- Dominik Stadler
+- Don McCasland
+- ÐšÑ€Ð°Ð¿Ð¸Ð²Ð¸Ð½ ÐÐ½Ð´Ñ€ÐµÐ¹ Ð’Ð¸ÐºÑ‚Ð¾Ñ€Ð¾Ð²Ð¸Ñ‡
+- dtbaum
+- Ed Serbin
+- eddycharly
+- Edgar Garcia
+- Eduard Tita
+- efhjnw0
+- eitana
+- Emil BÃ¤ckmark
+- Emilio Escobar
+- Emily Burns
+- Eric Zimanyi
+- Erik Munson
+- é™ˆåŠ å…´
+- Evaristo GutieÌrrez
+- evernat
+- FÃ©lix Queiruga
+- Fabian Lehmann
+- fabiodcasilva
+- fbelzunc
+- fdegir
+- Federico Barcelona
+- Felipe
+- Fernando Freire
+- Florian OrpeliÃ¨re
+- Florian Schmaus
+- florian.veaux
+- Francisco Javier Fernandez Gonzalez
+- Frieder Heugel
+- Fritz Elfert
+- Gabe Montero
+- Gal Yardeni
+- galemccommons
+- Gareth Evans
+- Gareth Evans
+- Gavin Fenton
+- Gavin Mogan
+- Gavin Mogan
+- Genesis Thomas
+- George Sklias
+- German Muzquiz
+- ghannamz
+- Giulia Del Bravo
+- Glauco Vinicius
+- Glib Briia
+- Gong Yi
+- Greg Comstock
+- Greg Dritschler
+- guga4ka
+- Guillermo Simmross
+- Gustaf Lundh
+- Guy Sheffer
+- Guybrush
+- HÃ¼seyin CansÄ±z
+- Hampus Johansson
+- Hamza Amin
+- Hardy Ferentschik
+- harshitvasu
+- hcansiz
+- Heiko Thiel
+- heinemann
+- Henri Koskenranta
+- HervÃ© Le Meur
+- hieule2ntq
+- Hongli Lai
+- Hudson CI
+- Hui Jun Ng
+- Ian Coffey
+- Ibuki
+- Ignacio Roncero Bazarra
+- Igor Filin
+- ikedam
+- ilandn
+- imonteroperez
+- insightvmci-r7
+- Isaac Shabtay
+- isic
+- ispasov
+- Ivan
+- Ivan Fernandez Calvo
+- Ivan Spasov
+- JÃ¸rgen Jervidalo
+- Jacek Marzec
+- Jacque Salinas
+- Jaiswal
+- James Lafferty
+- James McShane
+- James Nord
+- James Rawlings
+- James Strachan
+- Jason Hall
+- Jaydeep Sannake
+- jcavanagh
+- Jeff Thompson
+- Jeremias Wiedmann
+- Jesse Glick
+- Jeyrs Chabu
+- JFrog Pipelines Step
+- jha-cloudbees
+- Jim Klimov
+- Jitendar Singh
+- Jithin Emanuel
+- JJ Asghar
+- jloisel
+- Joachim Kuhnert
+- Johannes Hintermaier
+- John Flynn
+- Jon Goering
+- Jonas Pettersson
+- Jose Blas Camacho Taboada
+- Joseph Petersen
+- Josh Soref
+- jstrachan
+- Justin Field
+- Justin Harringa
+- Justin Klemm
+- jweingarten
+- Kamil Golinski
+- Kanstantsin Shautsou
+- Kara de la Marck
+- Karl
+- Karsten Jeschkies
+- KasperHeyndrickx
+- Keisuke Kumada
+- keke
+- Kenneth Rogers
+- Kevin McDermott
+- Kevin Richter
+- Kevin Woo
+- Kezhi Xiong
+- khelil
+- Khurram Baig
+- kiam
+- kkawahar
+- klu909
+- Kohsuke Kawaguchi
+- Krzysztof Kacprzak
+- Lakshmi Narasimhan T V
+- Lakshminarasimhan Parthasarathy
+- Liam Newman
+- Lion Kosiuk
+- liumazi
+- liuwei
+- LoadFocus
+- long song
+- Lorin Hochstein
+- Luca Milanesio
+- Luis Pollo
+- Lukas Kirner
+- Luther Tegtmeier
+- Mads Jensen
+- Mads Mohr Christensen
+- Maggie Neterval
+- Magnus BÃ¤ck
+- Majd
+- Manabu McCloskey
+- marc Tranzer
+- Marcel Mueller
+- Mari Halkoaho
+- Mark Cox
+- Mark Vulfson
+- Mark Waite
+- Marky Jackson
+- Martin Goyot
+- Mathieu Delrocq
+- mathurpranjal
+- Matrozov
+- Mats Faugli
+- Matt Moore
+- Matt Santa
+- Matt Sicker
+- Matthew Murphy
+- Matti Varanka
+- mattmurp
+- Max Goltzsche
+- Maxime Mazet
+- max-kilian
+- Mez Pahlan
+- Michael Neale
+- Michael Plump
+- Michaela Borzechowski
+- micnncim
+- Miguel GonzÃ¡lez
+- mike cirioli
+- Mitja
+- mmalicki-deviniti
+- Mohamed EL Habib
+- morad
+- myuser
+- Napoleon Santana
+- Navnath
+- nestor.salceda
+- Nicholas Elliot
+- Nicolas Cohen
+- Nikhil Thomas
+- Nikita Bedmutha
+- Nikolas Falco
+- Nima Kaviani
+- nre
+- Oleg Nenashev
+- Oleksii V
+- olivergondza
+- Olivier Lamy
+- Or Geva
+- Oron Nadiv
+- Parag Sanjay Bhingre
+- Paramjit Singh
+- Patrick Lee Scott
+- Patrik Greco
+- Paul Allen
+- Paul S. Schweigert
+- Pavel
+- Pavel Sorokin
+- Peng Li
+- Peter Darton
+- Pierre Beitz
+- Pierre Tasci
+- Pierson Yieh
+- Piotr PaczyÅ„ski
+- Piradeep Kandasamy
+- Piyush Garg
+- PRADEEP KUMAR
+- pramodanarase
+- Prashant Verma
+- pratap0007
+- Prathibha Datta Kumar
+- Pratik Jagrut
+- Pritam Paul
+- Priti Desai
+- PuneetPunamiya
+- qabuild
+- QMetryDev
+- RaÃºl VÃ¡zquez
+- Raccoon
+- Radek Antoniuk
+- radeva
+- Raihaan Shouhell
+- Ramon Leon
+- Rani
+- Raphael Pionke
+- RenÃ© Pfeuffer
+- res0nance
+- Richard Bywater
+- Richard Otte
+- rick
+- Rishabh Budhouliya
+- rmpestano
+- Rob Fletcher
+- Rob Zienert
+- Robert Sandell
+- robertstreche
+- robinsoc
+- Rohan Chougule
+- RoniSegal
+- Ronny Perinke
+- Rosalind Benoit
+- Roxanne Joncas
+- s1mple_zj
+- Sairam Rekapalli
+- salaboy
+- salmanmak
+- Sarah Witt
+- saville
+- savitaashture
+- sbuhary
+- Scott
+- Sebastian Sdorra
+- Sebastian Westemeyer
+- selvavignesh.m
+- SergeiButylin
+- Sergetron
+- Sergey Oplavin
+- Sergey Slabnov
+- Sharon Jerop Kipruto
+- Shivam Mukhade
+- SHxKM
+- Shyam M
+- Simon Symhoven
+- simonsymhoven
+- Sladyn
+- Sleepy-GH
+- sorin
+- stchar
+- Stefan Birkner
+- Stefan Spieker
+- stephly07
+- Steve Hill
+- strangelookingnerd
+- sue445
+- Sumit Sarin
+- Sunil Thaha
+- sunweisheng
+- Supratik Das
+- Suresh Kumar
+- T Hernandez
+- tanmoyguha-hcl
+- Tara Hernandez
+- Taylor Daugherty
+- tdcox
+- Ted Gelpi
+- Terry Cox
+- Thabo Krick
+- Thomas de Grenier de Latour
+- Thompson, Brian
+- Thorsten Hoeger
+- Tiffany K
+- Tim
+- Tim Brown
+- Tim Jacomb
+- Tim Van Holder
+- timja
+- TimSVector
+- Tobias Gruetzmacher
+- tofuatjava
+- Tomas Bjerre
+- Tomas Westling
+- Tomasz SÄ™k
+- Tomek Szmytka
+- Torsten Walter
+- torstenwalter
+- Tyler Camp
+- tzachs
+- Ullrich Hafner
+- Valerii Rulevskyi
+- VE Dev
+- Vibhav Bobade
+- Victor Martinez
+- Vignesh Murugesan
+- vikas.chaudhary
+- vinamra28
+- Vincent Behar
+- Vincent Demeester
+- Vincent Hou
+- Vincent Latombe
+- vladt
+- Vorndam
+- Wadeck Follonier
+- Watermeyer, Stephan
+- wawanawna
+- Willem Borgesius
+- Xenogents
+- Xinru Zhang
+- xuzhang3
+- Yahav Itzhak
+- Yang Chen
+- Yanjun Shi
+- yolandadu
+- Yoshiyuki Watanabe
+- Youssef El Houti
+- Yuchen Cheng
+- yuege01
+- Zbynek Konecny
+- ziweifan
+- Zixuan Liu
+- zmanxiang
