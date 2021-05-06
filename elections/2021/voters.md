@@ -1,4 +1,4 @@
-For any feedback or corrections (e.g. bot accounts, duplicates) please contact the Election Officers 
+For any feedback or corrections (e.g. bot accounts, duplicates) please contact the Election Officers elections@cd.foundation
 
 ### Voters with No Email
 
