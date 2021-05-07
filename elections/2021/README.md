@@ -62,12 +62,12 @@ The TOC will be responsible for:
 ## Voter Eligibility
   * Project seats - eligible voters will be
      - People who had 10 or more commits to any CDF project over the past year (prior to May 1 2021), via data in [LFX Insights](https://insights.lfx.linuxfoundation.org/projects/cdf-f/active-contributor?time=%7B%22from%22:%22now-1y%22,%22type%22:%22datemath%22,%22to%22:%22now%22%7D). 
-     - People who have submitted the [voter registration form]() and are accepted by the election officers. This is to ensure we have voters whose contributions may not be captured through the above methodology. Individuals are able to submit voter form on behalf of other individuals. 
+     - People who have submitted the [voter registration form](https://forms.gle/XXRyXkQvy1LK9eBp9) and are accepted by the election officers. This is to ensure we have voters whose contributions may not be captured through the above methodology. Individuals are able to submit voter form on behalf of other individuals. 
   * General seats - these will be voted on by members of the [CDF governing board](https://cd.foundation/about/governing-board/)  
 
 ## Voting Process
 Individuals listed in [voters.md](voters.md) will receive a ballot via email. If you are
-not on that list you can use the [voter registration form]() to ask
+not on that list you can use the [voter registration form](https://forms.gle/XXRyXkQvy1LK9eBp9) to ask
 to participate in the election.
 
 Elections will be held using time-limited, ranked voting via OPA Vote. 
