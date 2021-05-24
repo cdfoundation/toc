@@ -65,7 +65,7 @@ Initial committers are same as ones submitting proposal.
 
 Leadership team:
 - [Shoubhik Bose](https://github.com/sbose78) (Red Hat)
-- [Enrique Encalada(https://github.com/qu1queee) (IBM)
+- [Enrique Encalada](https://github.com/qu1queee) (IBM)
 - [Adam Kaplan](https://github.com/adambkaplan) (Red Hat)
 
 The Shipwright community holds public weekly meetings to discuss relevant topics.
