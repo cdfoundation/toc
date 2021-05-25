@@ -39,7 +39,7 @@ Apache 2.0
 
 ## Source control (GitHub by default)
 
-[Shipwirhgt GitHub Repo](https://github.com/shipwright-io)
+[Shipwright GitHub Repo](https://github.com/shipwright-io)
 
 ## Issue tracker (GitHub by default)
 
