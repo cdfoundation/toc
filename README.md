@@ -18,14 +18,23 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 
 ## Members
 
-* Dan Lorenc (Tekton) [Chair] - 03/1/2020 to 02/28/2021  [TOC-appointed]
-* Kohsuke Kawaguchi (Jenkins) - 03/1/2020 to 02/28/2021  [GB-appointed]
-* James Strachan (Jenkins-X) - 03/1/2020 to 02/28/2021  [GB-appointed]
-* Isaac Mosquera (Spinnaker) - 08/1/2020 to 02/28/2021  [TOC-appointed]
-* Tara Hernandez (Google) - 05/1/2020 to 04/30/2021 [TOC-appointed]
-* Yoav Landman (JFrog) - 04/20/2020 to 04/30/2021 [TOC-appointed]
-* Jithin Emanuel (Verizon Media) - 03/1/2020 to 02/28/2021 [TOC-appointed]
+* Dan Lorenc (Tekton) [Chair] - 1 April 2021 to 31 March 2022  [TOC-appointed]
+* Jithin Emanuel (Verizon Media) - 1 July 2021 to 30 June 2022 [Elected project seat] 
+* Andrea Frittoli (IBM) - 1 July 2021 to 30 June 2022 [Elected project seat]
+* Oleg Nenashev (CloudBees) - 1 July 2021 to 30 June 2022 [Elected project seat]
+* Steve Taylor (DeployHub) -  1 July 2021 to 30 June 2022 [Elected project seat]
+* Jason Hall (Red Hat) -  1 July 2021 to 30 June 2022 [Elected GB seat]
+* Melissa McKay (JFrog) - 1 July 2021 to 30 June 2022 [Elected GB seat]
+* Garima Bajpai (Canada, DevOps Community of Practice ) - 1 July 2021 to 30 June 2022 [GB appointed Ambassador Chair]
 * Fatih Degirmenci (Ericsson) - 1 April 2021 to 31 March 2022 [End-user-appointed]
+
+### TOC Alumni
+* Kohsuke Kawaguchi (Jenkins) - 03/1/2020 to 02/28/2021
+* James Strachan (Jenkins-X) - 03/1/2020 to 02/28/2021
+* Isaac Mosquera (Spinnaker) - 08/1/2020 to 02/28/2021
+* Tara Hernandez (Google) - 05/1/2020 to 04/30/2021
+* Yoav Landman (JFrog) - 04/20/2020 to 04/30/2021
+* Andy Glover (Spinnaker) - 03/1/2020 to 08/1/2020
 
 Updated website for TOC: https://cd.foundation/about/toc/
 
