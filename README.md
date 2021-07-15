@@ -18,15 +18,15 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 
 ## Members
 
-* Dan Lorenc (Tekton) [Chair] - 1 April 2021 to 31 March 2022  [TOC-appointed]
-* Jithin Emanuel (Verizon Media) - 1 July 2021 to 30 June 2022 [Elected project seat] 
-* Andrea Frittoli (IBM) - 1 July 2021 to 30 June 2022 [Elected project seat]
-* Oleg Nenashev (CloudBees) - 1 July 2021 to 30 June 2022 [Elected project seat]
-* Steve Taylor (DeployHub) -  1 July 2021 to 30 June 2022 [Elected project seat]
-* Jason Hall (Red Hat) -  1 July 2021 to 30 June 2022 [Elected GB seat]
+* Dan Lorenc (Tekton, Google) [Chair] - 1 April 2021 to 31 March 2022  [TOC-appointed]
+* Jithin Emanuel (Screwdriver, Verizon Media) - 1 July 2021 to 30 June 2022 [Elected project seat] 
+* Andrea Frittoli (Tekton, IBM) - 1 July 2021 to 30 June 2022 [Elected project seat]
+* Oleg Nenashev (Jenkins, CloudBees) - 1 July 2021 to 30 June 2022 [Elected project seat]
+* Steve Taylor (Ortelius, DeployHub) -  1 July 2021 to 30 June 2022 [Elected project seat]
+* Jason Hall (Tekton/Shipwright, Red Hat) -  1 July 2021 to 30 June 2022 [Elected GB seat]
 * Melissa McKay (JFrog) - 1 July 2021 to 30 June 2022 [Elected GB seat]
-* Garima Bajpai (Canada, DevOps Community of Practice ) - 1 July 2021 to 30 June 2022 [GB appointed Ambassador Chair]
-* Fatih Degirmenci (Ericsson) - 1 April 2021 to 31 March 2022 [End-user-appointed]
+* Garima Bajpai (Ortelius, Canada DevOps Community of Practice ) - 1 July 2021 to 30 June 2022 [GB appointed Ambassador Chair]
+* Fatih Degirmenci (Interoperability SIG, Ericsson) - 1 April 2021 to 31 March 2022 [End-user-appointed]
 
 ### TOC Alumni
 * Kohsuke Kawaguchi (Jenkins) - 03/1/2020 to 02/28/2021
