@@ -117,8 +117,8 @@ The SIG is disbanded under the following conditions:
 ### SIG Onboarding Checklist
 
 This is the checklist for new SIGs
- * Create github repo
- * Create github team for the sig (cochairs should manage the team)
+ * Create GitHub repo
+ * Create GitHub team for the sig (cochairs should manage the team)
  * Create slack channel (or rename existing channel to reflect sig name)
  * Create groups.io mailing list
  * SIG co-chairs to get access to CDF calendar to modify events
