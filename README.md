@@ -54,7 +54,7 @@ The meeting minutes are here: [TOC Meeting Notes](docs/TOC_Meeting_Notes.md)
 
 The public calendar is here: [TOC Calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
-The community also uses [Slack for additional collaboration opportunities](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtODM2NDI1NDc0MzIxLTA1MDcxMzUyMGU2NWVlNmQwN2M1N2M4MWJjOWFkM2UzMDY0OWNkNjAzNzM0NzVkNjQ5M2NkMmY2MTRkMWY4MWY)
+The community also uses [Slack for additional collaboration opportunities](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg)
 
 ## Documents
 * [Principles](PRINCIPLES.md)
