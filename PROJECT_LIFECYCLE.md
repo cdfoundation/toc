@@ -11,8 +11,13 @@ This governance policy sets forth the proposal process for projects to be accept
 
 Every project will start at incubation and can progress toward graduation on its own timeline.
 
+### Submitting proposals
+
+Projects must be formally proposed via GitHub by submitting a pull request to this repository.
+See the [Project Proposals](./proposals) directory for the previous proposals and the template.
+
 ### Project Proposal Requirements
-Projects must be formally proposed via GitHub. Project proposals submitted should provide the following information to the best of their ability:
+Project proposals submitted should provide the following information to the best of their ability:
 
 * name of project
 * project description (what it does, why it is valuable, origin and history)
@@ -27,7 +32,7 @@ Projects must be formally proposed via GitHub. Project proposals submitted shoul
 * names of initial committers, if different from those submitting proposal
 * briefly describe the project's leadership team and decision-making process
 * link to any documented governance practices
-* preferred maturity level (see stages below)
+* preferred maturity level (see _Stages_ below)
 * list of project's official communication channels (slack, irc, mailing lists)
 * link to project's website 
 * links to social media accounts
