@@ -18,7 +18,7 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 
 ## Members
 
-* Dan Lorenc (Tekton, Google) - 1 April 2021 to 31 March 2022  [TOC-appointed]
+* Dan Lorenc (Tekton, Chainguard) - 1 April 2021 to 31 March 2022  [TOC-appointed]
 * Jithin Emanuel (Screwdriver, Verizon Media) - 1 July 2021 to 30 June 2022 [Elected project seat] 
 * Andrea Frittoli (Tekton, IBM) - 1 July 2021 to 30 June 2022 [Elected project seat]
 * Oleg Nenashev (Jenkins) [Chair] - 1 July 2021 to 30 June 2022 [Elected project seat]
