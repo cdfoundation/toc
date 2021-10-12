@@ -16,4 +16,4 @@ This is a high level overview of onboarding for new CDF projects that have been 
 ## Outreach & Marketing 
 
   * A press release announcing the new project will be put out by CDF. Please identify key messaging and community members to provide quotes and email pr@cd.foundation
-  * Podcase - projects are welcome to do a kickoff episode on The Pipeline Podcast, more detail here: https://cd.foundation/podcast/
+  * Podcast - projects are welcome to do a kickoff episode on The Pipeline Podcast, more detail here: https://cd.foundation/podcast/
