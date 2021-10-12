@@ -243,7 +243,7 @@ The following voters are members with sufficient contributions to vote, but have
 - jha-cloudbees
 - Jim Klimov
 - Jitendar Singh
-- Jithin Emanuel
+- Jithin Emmanuel
 - JJ Asghar
 - jloisel
 - Joachim Kuhnert
