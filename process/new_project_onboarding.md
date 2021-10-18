@@ -23,3 +23,4 @@ This is a high level overview of onboarding for new CDF projects that have been 
 
   * A press release announcing the new project will be put out by CDF. Please identify key messaging and community members to provide quotes and email pr@cd.foundation
   * Podcast - projects are welcome to do a kickoff episode on The Pipeline Podcast, more detail here: https://cd.foundation/podcast/
+  * CDF Landscape - add the project to the [CDF Landscape](https://github.com/cdfoundation/cdf-landscape) for better visibility
