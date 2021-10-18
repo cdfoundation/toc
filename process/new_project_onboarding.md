@@ -2,6 +2,12 @@
 
 This is a high level overview of onboarding for new CDF projects that have been accepted into the foundation by the technical oversight committee. 
 
+## Community
+
+* Code of Conduct - The project should introduce an inclusive code of conduct if it does not already exist.
+   It is recommended to adopt [Contributor Covenant](https://www.contributor-covenant.org/) and document the Continuous Delivery Foundation as the escalation level next to the project
+* Recommended: Delegate a representative to the Continuous Delivery Foundation that would participate in the CDF TOC mailing list and other foundation events
+
 ## Technical & Infrastructure
 
    * Domain Transfer - project-related domains should be transferred to the Linus Foundation via an issue created here https://jira.linuxfoundation.org/plugins/servlet/theme/portal/2/group/19
