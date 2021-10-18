@@ -1,6 +1,8 @@
 # CDF Project Onboarding
 
-This is a high level overview of onboarding for new CDF projects that have been accepted into the foundation by the technical oversight committee. 
+This is a high level overview of onboarding for new CDF projects that have been accepted into the foundation by the technical oversight committee.
+The listed actions should happen shortly after the project is accepted,
+with a longer but reasonable grace period for legal actions like trademark and patent transfer.
 
 ## Community
 
