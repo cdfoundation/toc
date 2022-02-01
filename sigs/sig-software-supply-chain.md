@@ -34,6 +34,7 @@ The Software Supply Chain SIG will also look for synergies between CDF and other
 * Georg Kunz ([@gkunz](https://github.com/gkunz)), Ericsson
 * Erhan Vikyol ([@vikyol](https://github.com/vikyol)), Storebrand
 * Tracy Miranda ([@tracymiranda](https://github.com/tracymiranda)), Chainguard
+* Melissa McKay ([@mjmckay](https://github.com/mjmckay)), JFrog
 
 ## New Members
 
@@ -64,7 +65,7 @@ Chairs and the TOC Sponsor of the SIG are
 
 * Liora Milbaum ([@lmilbaum](https://github.com/lmilbaum)), Red Hat - Co-chair
 * Fatih Degirmenci ([@fdegir](https://github.com/fdegir)), Ericsson Software Technology - Co-chair
-* TOC Sponsor TBD
+* Melissa McKay ([@mjmckay](https://github.com/mjmckay)), JFrog - TOC Sponsor
 
 ### SIG Workstreams
 
