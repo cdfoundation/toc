@@ -35,6 +35,8 @@ The Software Supply Chain SIG will also look for synergies between CDF and other
 * Erhan Vikyol ([@vikyol](https://github.com/vikyol)), Storebrand
 * Tracy Miranda ([@tracymiranda](https://github.com/tracymiranda)), Chainguard
 * Melissa McKay ([@mjmckay](https://github.com/mjmckay)), JFrog
+* Maxime Gréau ([@mgreau](https://github.com/mgreau)), Elastic
+* Majinghe ([@majinghe](https://github.com/majinghe))
 
 ## New Members
 
