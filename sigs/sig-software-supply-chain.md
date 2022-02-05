@@ -37,6 +37,7 @@ The Software Supply Chain SIG will also look for synergies between CDF and other
 * Melissa McKay ([@mjmckay](https://github.com/mjmckay)), JFrog
 * Maxime Gréau ([@mgreau](https://github.com/mgreau)), Elastic
 * Majinghe ([@majinghe](https://github.com/majinghe))
+* Dan Garfield ([@todaywasawesome](https://github.com/todaywasawesome)), Codefresh 
 
 ## New Members
 
