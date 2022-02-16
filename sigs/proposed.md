@@ -9,6 +9,6 @@
 | [Best Practices](https://github.com/cdfoundation/sig-best-practices) | Capturing and distributing the various best practices that have been acquired over the years by member organizations | TBD | Accepted |
 | [Security Supply Chain](https://github.com/cdfoundation/sig-security-supply-chain) | Discussion, design, and adoption of an industry framework for supply chain security. | N/A | Archived |
 | Chinese Localization | UI related projects, website, local culture or events | Jenkins | Accepted
-| [Software Supply Chain](./sig-software-supply-chain.md) | Contributing to Software Supply Chain Initiatives from CI/CD process, tool, and system perspectives | All | Proposed
+| [Software Supply Chain](./sig-software-supply-chain.md) | Contributing to Software Supply Chain Initiatives from CI/CD process, tool, and system perspectives | All | Accepted
 | Governance | TBD | TBD | 
 | TBD | TBD | TBD | 
