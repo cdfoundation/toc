@@ -4,7 +4,7 @@ Find out more about the role of TOC contributors [here](CONTRIBUTING.md#toc-cont
 
 Person | Organization | Other Affiliations | GitHub Username | Gitlab Username
 -- | -- | -- | -- | --
-Ankit Mohapatra | Dexai Robotics| Jenkins X maintainer | ankitm123 | 
+Ankit D Mohapatra | Dexai Robotics| Jenkins X maintainer | ankitm123 | 
 Kara de la Marck | CDF | Linux Foundation, CDF Interoperability SIG, Codebar | MarckK | |
 Roxanne Joncas | CDF | Linux Foundation | zestyroxy |
 Terry Cox | Bootstrap | CDF MLOps SIG, CDF Best Practices SIG | tdcox | 
