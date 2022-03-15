@@ -28,6 +28,12 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 * Garima Bajpai (Ortelius, Canada DevOps Community of Practice ) - 1 July 2021 to 30 June 2022 [GB appointed Ambassador Chair]
 * Fatih Degirmenci (Interoperability SIG, Ericsson) - 1 April 2021 to 31 March 2022 [End-user-appointed]
 
+### TOC Contributors
+
+We thank all commmunity members who participate in the Technical Oversight Committee activities
+and represent their projects/SIGs/companies there.
+See the list of TOC Contributors [here](./CONTRIBUTORS.md).
+
 ### TOC Alumni
 * Kohsuke Kawaguchi (Jenkins) - 03/1/2020 to 02/28/2021
 * James Strachan (Jenkins-X) - 03/1/2020 to 02/28/2021
