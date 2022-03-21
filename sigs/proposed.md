@@ -2,7 +2,7 @@
 
 | Name (to be finalised)  | Area        | Current CDF Projects | Status
 | ------------------------|-------------|-----------------------|--------------
-| Security | Security and supply chain integrity, traceability. Standards, specifications | Jenkins, Jenkins X, Spinnaker, Tekton | Accepted
+| Security | Security and supply chain integrity, traceability. Standards, specifications | Jenkins, Jenkins X, Spinnaker, Tekton | Archived
 | MLOps | Data and machine learning pipelines and model deployment. Standards, specifications, projects | Tekton, Kubeflow Pipelines, Jenkins X | Accepted
 | [Interoperability](https://github.com/cdfoundation/toc/blob/master/sigs/sig-interoperability.md) | Interoperability across CI/CD tools and technologies. Standards, specifications, projects | All | Accepted
 | [Events](https://github.com/cdfoundation/sig-events) | This group is looking at how events can help to create CI/CD systems with a decoupled architecture that is easy to scale and makes it resilient to failures | TBD | Accepted |
