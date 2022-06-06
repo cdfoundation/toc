@@ -5,7 +5,7 @@ repository:
   name: toc
 
   # A short description of the repository that will show up on GitHub
-  description: CDF TOC
+  description: CDF Technical Oversight Committee (TOC)
 
   # A URL with more information about the repository
   homepage: https://cd.foundation/about/toc/
