@@ -8,7 +8,7 @@ repository:
   description: CDF TOC
 
   # A URL with more information about the repository
-  homepage: https://cd.foundation
+  homepage: https://cd.foundation/about/toc/
   
   # Collaborators: give specific users access to this repository.
   # Note: changing this file will update the users visible in Github UI 
