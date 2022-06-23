@@ -101,7 +101,7 @@ Partners providing services (for Trusted Registries) will need to be certified b
 Certification process will include an audit of:
 
 1. Hosting and Infrastructure stack for the Pyrsia trusted registry
-2. Devops practices to deploy and manage such infrastructure
+2. DevOps practices to deploy and manage such infrastructure
 3. Security practices to verify and fix any attack vectors that would compromise this registry or the attached network
 
 Each partner will need to be certified before joining the network. This certification will need to be renewed half-yearly.
@@ -155,7 +155,7 @@ Pyrsia will build on top of these technologies, so that it delivers a scalable a
 
 ## Alignment with CDF Charter Mission
 
-* Describe alignment with the charter
+* See Charter in the [Governance Document](https://github.com/pyrsia/pyrsia/blob/main/docs/get_involved/governance.md)
 
 ## Code of Conduct
 
@@ -180,35 +180,35 @@ Pyrsia will build on top of these technologies, so that it delivers a scalable a
 
 ## External Dependencies
 
-* List of dependencies with license
+* [Dependencies and Licenses](pyrsia-deps.md)
 
 ## Release Methodology and Mechanics
 
-* Describe the release methodology and mechanics
+* Github Actions are used to build the code on a PR merge.  Checks have been enabled to enforce: Linting, Inclusive Naming, Code Coverage, Test Cases and CLA.  Two reviewers must approve the PR for it to be merged.  Once a PR is merged a build is performed for Ubuntu and OS/X.  The Ubuntu binaries are uploaded to the [Pyrsia Debian Repo](https://repo.pyrsia.io) for installation using apt-get.  The nightly repo will contain all PR merges.  The stable repo is populated when a GitHub release is created. Pyrsia follows the schematic naming convention.
 
 ## Initial Committers
 
-* Abhijith Ganesh	(@AbhijithGanesh)
-* Sudhindra Rao	(@betarelease)
-* Christian Bongiorno	(@chb0github)
-* Chris Crone	(@chris-crone)
-* Elliott Frisch	(@efrisch)
-* Erwin Morrhey	(@erwin1)
-* Xuefei Han	(@fishseabowl)
-* Fred Simon	(@freddy33)
-* Baruch Sadogursky	(@jbaruch)
-* Johan Vos	(@johanvos)
-* José Pereda	(@jperedadnr)
-* Justin Cormack	(@justincormack)
-* Amir Shmulevich	(@karma665)
-* Markus Binder	(@markus-jf)
-* Mitali Bisht	(@MitaliBo)
-* Mark Seaborn	(@mseabornIBM)
-* Chris Mc	(@prince-chrismc)
-* Steve Taylor	(@sbtaylor15)
-* Stephen Chin	(@steveonjava)
-* Joeri Sykora	(@tiainen)
-* Yoav Landman	(@yoav)
+* Abhijith Ganesh (@AbhijithGanesh)
+* Sudhindra Rao (@betarelease)
+* Christian Bongiorno (@chb0github)
+* Chris Crone (@chris-crone)
+* Elliott Frisch (@efrisch)
+* Erwin Morrhey (@erwin1)
+* Xuefei Han (@fishseabowl)
+* Fred Simon (@freddy33)
+* Baruch Sadogursky (@jbaruch)
+* Johan Vos (@johanvos)
+* José Pereda (@jperedadnr)
+* Justin Cormack (@justincormack)
+* Amir Shmulevich (@karma665)
+* Markus Binder (@markus-jf)
+* Mitali Bisht (@MitaliBo)
+* Mark Seaborn (@mseabornIBM)
+* Chris Mc (@prince-chrismc)
+* Steve Taylor (@sbtaylor15)
+* Stephen Chin (@steveonjava)
+* Joeri Sykora (@tiainen)
+* Yoav Landman (@yoav)
 
 ## Governance
 
