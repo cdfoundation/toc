@@ -188,12 +188,31 @@ Pyrsia will build on top of these technologies, so that it delivers a scalable a
 
 ## Initial Committers
 
-* List of Committers
+* Abhijith Ganesh	(@AbhijithGanesh)
+* Sudhindra Rao	(@betarelease)
+* Christian Bongiorno	(@chb0github)
+* Chris Crone	(@chris-crone)
+* Elliott Frisch	(@efrisch)
+* Erwin Morrhey	(@erwin1)
+* Xuefei Han	(@fishseabowl)
+* Fred Simon	(@freddy33)
+* Baruch Sadogursky	(@jbaruch)
+* Johan Vos	(@johanvos)
+* José Pereda	(@jperedadnr)
+* Justin Cormack	(@justincormack)
+* Amir Shmulevich	(@karma665)
+* Markus Binder	(@markus-jf)
+* Mitali Bisht	(@MitaliBo)
+* Mark Seaborn	(@mseabornIBM)
+* Chris Mc	(@prince-chrismc)
+* Steve Taylor	(@sbtaylor15)
+* Stephen Chin	(@steveonjava)
+* Joeri Sykora	(@tiainen)
+* Yoav Landman	(@yoav)
 
 ## Governance
 
-* Describe the project leadership team and decision-making process
-* Link to any documented governance practices
+* [Governance](https://github.com/pyrsia/pyrsia/blob/main/docs/get_involved/governance.md)
 
 ## Preferred Maturity Level
 
@@ -205,11 +224,10 @@ Pyrsia will build on top of these technologies, so that it delivers a scalable a
 
 ## Communication Channel
 
-* List Slack, Discord, IRC channels
-* List Email list
-* List Facebook handle
-* List Twitter handle
-* List other social media accounts
+* [Slack - #pyrsia-team channel](https://openssf.slack.com/archives/C02RC7Y5EUV)
+* [Google Groups for Email and Calendar](https://groups.google.com/g/pyrsia)
+* [YouTube](https://www.youtube.com/channel/UClPQKloIElvJk7EdSST3W5g)
+* [Twitter](https://twitter.com/PyrsiaOSS)
 
 ## Existing financial sponsorship
 
@@ -217,8 +235,9 @@ Pyrsia will build on top of these technologies, so that it delivers a scalable a
 
 ## Infrastructure
 
-* List existing infrastructure
-* List new infrastructure needs
+* Existing Infrastructure uses Google Cloud Compute Engine, Google Cloud Storage, Kubernetes, Google Managed Certificates, Google Cloud DNS and Google Load Balancer
+
+* New infrastructure needs will be Google Cloud FileStore for Blockchain and Artifact persistence.
 
 ### Notes
 
