@@ -1,46 +1,42 @@
-# Pyrsia - Decentralized Package Network
+# Project Proposal for Pyrsia - Decentralized Package Network
 
+## Project Description
 
 [Our presentation at LFMS 2021](https://lfms21.sched.com/event/61b18d626d367d34eb85e0c86e65bfb6)
 
-
-## State of Supply Chain Security
+### State of Supply Chain Security
 
 At various conferences this year, Supply Chain Security has been the most talked about subject. We care about improving the security of open source software and supply chain security of these libraries that are critical for software development.
 
 Our proposal for Pyrsia, a decentralized package network, aims to provide a solution for a key part of the supply chain. Pyrsia aims to
-
-
 
 1. Build trust for the open-source packages being used as dependencies in software development through certified and peer-verified builds
 2. Provide a decentralized package network that understands package coordinates, semantics, and discoverability, and which continues to work even though there are local outages
 
 If the open-source supply chain was compared to an electric power delivery system, it would be analogous to the power grid that supplies distributed electricity to consumers and businesses worldwide. Individuals, small businesses, and enterprises all depend upon reliable delivery of clean power from upstream production sources. The distributed nature of the power grid makes it possible to have a reliable source of power that efficiently distributes electricity production. Without this critical infrastructure it would be impossible to keep production working globally.
 
-
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](images/powerlines.png "power lines")
 [^1]
 
 Similarly, open-source software plays an essential role in the supply chain of modern software development. Proprietary software is typically composed of 90% or more open-source dependencies, with heavy usage on packages provided from one or more central repositories including Maven Central, PyPI, RubyGems, NPM, Docker Hub and others. Outages in these upstream repositories have the potential to produce disruptions in the software supply chain that range from developer productivity to CI/CD build failures to interruption of production releases. Worse yet, security issues in central repositories can have a devastating impact on downstream systems, especially where malicious packages have been injected.
 
 Pyrsia aims to secure the software supply chain of open-source dependencies by creating a system that secures open-source builds and distribution by design.
 
-
-## Establishing and Verifying Trust in Packages
+### Establishing and Verifying Trust in Packages
 
 Today, trust in packages is based on the service(s) that built and/or host those packages. Whenever such a service goes down or is attacked it makes the entire network downstream unstable. Either you cannot continue to build and release software or have the risk of systems with the compromised packages. We trust the service provider to fix and provide proof of trust. This proof of trust is not verifiable by a third party and identifying vulnerable packages is a manual process.
 
 Pyrsia solves this problem by applying automation to both building and verifying trust in the packages hosted/produced on the network. Pyrsia also aims to provide resilience which helps in healing a partition and reestablishing trust in the system.
 
-**Pyrsia consensus**
+#### Pyrsia consensus
 
 Pyrsia network works on random consensus across the network. Each package submitted to the network gets built by a random selection of nodes which build and produce the output package independently. The result is then verified by consensus among these nodes. If the verification succeeds the package is then committed to the network and available to be downloaded and deployed.
 
 Random selection allows independent verification of builds and also provides a safety net against network attacks.
 
-### Goals of Pyrsia
+![alt_text](images/buildandverify.png "Build and Verify Consensus")
 
-
+#### Goals of Pyrsia
 
 1. Focused on building and distributing open source codebases - source code must be available and accessible at a public location
 2. Easy to install and use Pyrsia software with a first-class command line interface that enables developers to gain the benefits of Pyrsia without the need to rewrite existing scripts, docker files etc.
@@ -54,43 +50,37 @@ Random selection allows independent verification of builds and also provides a s
     5. G - Compromised Package Repo
     6. H - Using a bad package
 
+![alt_text](images/slsa.png "slsa")
 
-![alt_text](images/image3.png "image_tooltip")
-
-### Non-Goals of Pyrsia
+#### Non-Goals of Pyrsia
 
 1. Re-invent technologies and software that already exist in other open-source projects
 2. Invest in security research on signature technology to sign software packages
 3. Support Pyrsia-like functionality for closed source projects
 
-## Pyrsia Building Blocks
+### Pyrsia Building Blocks
 
-**Pyrsia builder node**
+#### Pyrsia builder node
 
 A Pyrsia builder node as shown below provides infrastructure to independently build packages from source. When a user submits a candidate to be built(in the form of a URL with the commit hash from source control) each Pyrsia node providing the build service will create an independent containerized environment to build that package.
 
 Once built multiple Pyrsia nodes will verify the result and commit it to the distributed ledger for later verification by downloaders. Committing a reference of the result to the ledger also helps to provide a tamper proof way to record packages and their provenance.
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/dist-ledger.png "Distributed Ledger")
 
-**Distribution on Pyrsia**
+#### Distribution on Pyrsia
 
 Pyrsia nodes collaborate to distribute packages that are large. In distributing large packages Pyrsia nodes will leverage the network to parallelize the downloads to provide better throughput. In the diagram below, the CLI requests a package and Pyrsia nodes stream the stripes of that package over the network to the requestor.
 
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](images/collaborate.png "Collaborating to Distribute Artifacts")
 
-
-**Running a Trusted Node**
+#### Running a Trusted Node
 
 Pyrsia will also provide a way for the community to trust already trusted providers of packages. The established package registries(eg. Dockerhub, go.dev, ubuntu package registry…) can connect to Pyrsia as a trusted registry and provide packages to the downloader. Pyrsia can provide a mechanism to improve the throughput of these downloads by providing locality based caching (if your teammate located on the same network as you downloaded a package, you should not need to go to the internet to download the same package). These downloads can be parallelized as mentioned before. As shown below the Trusted registry continues to be trusted and the network provides resilience in the case when Trusted registry becomes unavailable.
 
+![alt_text](images/trustednodes.png "Trusted Nodes")
 
-
-![alt_text](images/image6.png "image_tooltip")
-
-
-
-## Building Pyrsia
+### Building Pyrsia
 
 JFrog is starting to build Pyrsia([https://github.com/pyrsia](https://github.com/pyrsia)) and would like support from the community. The JFrog team also has great ideas to start but are looking for collaboration with the community to make these ideas real.
 
@@ -98,21 +88,17 @@ Given the technical challenges and the need to keep Pyrsia a safe network (safe 
 
 The first build of Pyrsia will contain support for limited package types. The architecture is geared to support essential interfaces so as to encourage the community to build/contribute code to support different package types.
 
-
-## Supporting Pyrsia
+### Supporting Pyrsia
 
 We believe that supporting Pyrsia requires a partnership. Governing such a network should be done in a transparent manner to maintain trustworthiness of the network.  JFrog is committed to matching effort and funds to support Pyrsia and is inviting partnerships to make this possible.
 
 On a continuing basis we also propose establishing a collaborative governance structure to oversee the processes followed to continue growing and maintaining the network.  This governance structure will also be the first line of communication for all the users of the network.
 
-
-## Keeping the trust in Pyrsia
+### Keeping the trust in Pyrsia
 
 Partners providing services (for Trusted Registries) will need to be certified by a Governance board.
 
-Certification process will include an audit of
-
-
+Certification process will include an audit of:
 
 1. Hosting and Infrastructure stack for the Pyrsia trusted registry
 2. Devops practices to deploy and manage such infrastructure
@@ -122,26 +108,19 @@ Each partner will need to be certified before joining the network. This certific
 
 An incident (attack on the network or attack on this registry or attack on the contents served by this registry) will retrigger a recertification process. Unless this recertification is completed the service will not be allowed to join the network.
 
-
-## Pyrsia Trust Model
-
-
+### Pyrsia Trust Model
 
 * Highest level of trust is builds that have been verified by a quorum of regular nodes plus at least two trusted nodes. These must be reproducible.
 * Next level of trust is builds that have been verified by a trusted node. These do not have to be reproducible.
 * Builds that have been verified by a quorum of regular nodes but have not yet been verified by a trusted node are not considered trusted.
 
-
-### Role of Reproducible Builds
-
-
+#### Role of Reproducible Builds
 
 * Open-source projects must be reproducible to be built on the Pyrsia network (except if a trusted node chooses to build a non-reproducible library).
 * Reproducible builds that have been verified on the network give the highest level of trust possible.
 * As a result, Pyrsia provides positive incentives for open-source projects to adopt reproducible build technology.
 
-
-## Growing the Pyrsia Network
+### Growing the Pyrsia Network
 
 Partners will also be able to contribute via engineering, design, documentation, community engagement efforts to help widen the network.
 
@@ -149,12 +128,9 @@ Partners will also be able to contribute by enhancing support for different pack
 
 Partners will also be needed to support the network where weak/strong network activity is observed - so that they are able to measure the load and adjust resources accordingly.
 
-
-### Pyrsia in context - Supply Chain Security
+#### Pyrsia in context - Supply Chain Security
 
 The following efforts are in the same space as Pyrsia and we hope to reuse and get inspired by these efforts. Although, we do not see a clear overlap with Pyrsia’s goals.
-
-
 
 * [SigStore](https://www.sigstore.dev/)
 * [GitBom](https://github.com/git-bom)
@@ -177,20 +153,74 @@ Pyrsia needs the framework proposed by in-toto to empower contributors and open 
 
 Pyrsia will build on top of these technologies, so that it delivers a scalable and trustworthy network for building and delivering packages.
 
+## Alignment with CDF Charter Mission
 
-## Call to Action
+* Describe alignment with the charter
 
+## Code of Conduct
 
-1. Identify areas in which partnerships can be formed
-2. Identify areas where CDF can support this project
-3. Identify ways of funding the following activities for this project
-    1. Marketing
-    2. Securing Pyrsia network while building Trusted Registries
-    3. Security and Trust audits for Pyrsia network
-    4. Continuing certifications for Trusted registries
+* [Link to Code of Conduct](https://github.com/pyrsia/.github/blob/main/code-of-conduct.md) - Based on OpenSSF and Contributor Covenant.
 
-<!-- Footnotes themselves at the bottom. -->
+## TOC Sponsors
+
+* Steve Taylor
+* Sponsor 2
+
+## Project License
+
+* [Link to Project License](https://github.com/pyrsia/pyrsia/blob/main/license) - Under the Apache 2 license.
+
+## Source Code Control
+
+* [Link to Source Code Control](https://github.com/pyrsia) - Main repo is pyrsia.
+
+## Issue Tracker
+
+* [Link to Issue Tracker](https://github.com/pyrsia/pyrsia/issues)
+
+## External Dependencies
+
+* List of dependencies with license
+
+## Release Methodology and Mechanics
+
+* Describe the release methodology and mechanics
+
+## Initial Committers
+
+* List of Committers
+
+## Governance
+
+* Describe the project leadership team and decision-making process
+* Link to any documented governance practices
+
+## Preferred Maturity Level
+
+* Incubating
+
+## Project Website
+
+* [Link to projects website](https://pyrsia.io) and [Debian Repo](https://repo.pyrsia.io)
+
+## Communication Channel
+
+* List Slack, Discord, IRC channels
+* List Email list
+* List Facebook handle
+* List Twitter handle
+* List other social media accounts
+
+## Existing financial sponsorship
+
+* List existing financial sponsorships
+
+## Infrastructure
+
+* List existing infrastructure
+* List new infrastructure needs
+
 ### Notes
 
 [^1]:
-     Image from [https://www.hippopx.com/en/electricity-pylon-son-cables-power-line-high-voltage-electric-cables-428636](https://www.hippopx.com/en/electricity-pylon-son-cables-power-line-high-voltage-electric-cables-428636), Creative Commons Zero: https://creativecommons.org/publicdomain/zero/1.0/deed.en
+     Image from [https://www.hippopx.com/en/electricity-pylon-son-cables-power-line-high-voltage-electric-cables-428636](https://www.hippopx.com/en/electricity-pylon-son-cables-power-line-high-voltage-electric-cables-428636), Creative Commons Zero: <https://creativecommons.org/publicdomain/zero/1.0/deed.en>
