@@ -210,6 +210,13 @@ Pyrsia will build on top of these technologies, so that it delivers a scalable a
 * Joeri Sykora (@tiainen)
 * Yoav Landman (@yoav)
 
+Contributing Companies:
+
+| | | |
+|---|---|---|
+|![alt text](https://raw.githubusercontent.com/pyrsia/pyrsia.github.io/main/static/img/logo-jfrog.svg "JFrog")| ![alt text](https://raw.githubusercontent.com/pyrsia/pyrsia.github.io/main/static/img/logo-docker.svg "Docker")| ![alt text](https://raw.githubusercontent.com/pyrsia/pyrsia.github.io/main/static/img/logo-deployhub.svg "DeployHub") |
+|![alt text](https://raw.githubusercontent.com/pyrsia/pyrsia.github.io/main/static/img/logo-huawei.svg "Huawei")| Futurewei Technologies| ![alt text](https://raw.githubusercontent.com/pyrsia/pyrsia.github.io/main/static/img/logo-oracle.svg "Oracle") |
+
 ## Governance
 
 * [Governance](https://github.com/pyrsia/pyrsia/blob/main/docs/get_involved/governance.md)
