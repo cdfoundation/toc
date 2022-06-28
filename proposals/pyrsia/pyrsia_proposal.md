@@ -164,7 +164,7 @@ Pyrsia will build on top of these technologies, so that it delivers a scalable a
 ## TOC Sponsors
 
 * Steve Taylor
-* Sponsor 2
+* Melissa McKay
 
 ## Project License
 
@@ -238,7 +238,7 @@ Contributing Companies:
 
 ## Existing financial sponsorship
 
-* List existing financial sponsorships
+* None at this time.  The long term goal is to have contributing companies run Pyrsia Authoritative Node to build out the Pyrsia Peer to Peer Network.
 
 ## Infrastructure
 
