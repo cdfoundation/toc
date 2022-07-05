@@ -1,0 +1,26 @@
+repository:
+  # See https://developer.github.com/v3/repos/#edit for all available settings.
+
+  # The name of the repository. Changing this will rename the repository
+  name: toc
+
+  # A short description of the repository that will show up on GitHub
+  description:  "CDF Technical Oversight Committee (TOC) facilitates communication and collaboration among the Technical Projects"
+
+  # A URL with more information about the repository
+  homepage: https://cd.foundation/about/toc/
+  
+  # Collaborators: give specific users access to this repository.
+  # Note: changing this file will update the users visible in Github UI 
+  # see /governance/roles.md for details on write access policy
+  # note that the permissions below may provide wider access than needed for
+  # a specific role, and we trust these individuals to act according to their
+  # role. If there are questions, please contact one of the chairs.
+collaborators:
+  # TOC members
+  - username: oleg-nenashev
+    permission: admin
+
+  - username: fdegir
+    permission: admin
+    
