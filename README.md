@@ -22,11 +22,11 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 * Andrea Frittoli (Tekton, IBM) - 1 July 2021 to 30 June 2023 [Elected project seat]
 * Oleg Nenashev (Jenkins/Keptn, Dynatrace) [Chair] - 1 July 2021 to 30 June 2023 [Elected project seat]
 * Steve Taylor (Ortelius, DeployHub) -  1 July 2021 to 30 June 2023 [Elected project seat]
-* Jason Hall (Tekton/Shipwright, Red Hat) -  1 July 2021 to 30 June 2022 [Elected GB seat]
-* Melissa McKay (JFrog) - 1 July 2021 to 30 June 2022 [Elected GB seat]
-* Garima Bajpai (Ortelius, Canada DevOps Community of Practice) - 1 July 2021 to 30 June 2022 [GB appointed Ambassador Chair]
 * Justin Abrams (eBay) - May 1, 2022 to May 1, 2023 [Elected End User Seat]
 * Emil Bäckmark (Ericsson) - May 1, 2022 to May 1, 2023 [Elected End User Seat]
+* Melissa McKay (JFrog) - 1 July 2021 to 01 July 2024 [Elected GB seat]
+* Robert Reeves (Liquibase) - 1 July 2022 to 01 July 2024 [Elected GB seat]
+* Tracy Ragan (Ortelius, DeployHub) - 1 July 2022 to 01 July 2024 [Elected GB seat]
 
 ### TOC Contributors
 
@@ -43,6 +43,8 @@ See the list of TOC Contributors [here](./CONTRIBUTORS.md).
 * Andy Glover (Spinnaker) - 03/1/2020 to 08/1/2020
 * Dan Lorenc (Tekton, Chainguard) - 1 April 2021 to 31 March 2022 (TOC-appointed)
 * Fatih Degirmenci (Interoperability SIG, Ericsson) - 1 April 2021 to 31 March 2022 (End-user-appointed)
+* Garima Bajpai (Ortelius, Canada DevOps Community of Practice) - 1 July 2021 to 30 June 2022 [GB appointed Ambassador Chair]
+* Jason Hall (Tekton/Shipwright, Red Hat) -  1 July 2021 to 30 June 2022 [Elected GB seat]
 
 Updated website for TOC: https://cd.foundation/about/toc/
 
