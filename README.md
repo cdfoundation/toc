@@ -68,6 +68,7 @@ The community also uses [Slack for additional collaboration opportunities](https
 
 ## Documents
 * [Principles](PRINCIPLES.md)
+* [Onboarding](docs/onboarding.md)
 * [TOC Roadmap](https://github.com/cdfoundation/toc/projects/7)
 * [Project Lifecycle](PROJECT_LIFECYCLE.md)
 * [Code of Conduct](https://github.com/cdfoundation/.github/blob/main/CODE_OF_CONDUCT.md)
