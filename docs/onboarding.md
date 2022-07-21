@@ -59,6 +59,9 @@ It is important TOC Voting Members and TOC Contributors to join **#toc** channel
 
 CDF TOC meets on a bi-weekly basis on Bevy and CDF Meetings are listed on public Google Calendar.
 
+- [CDF Public Calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24%40group.calendar.google.comh)
+- [CDF TOC Chapter on Bevy](https://community.cd.foundation/technical-oversight-committee-toc/)
+
 ### Bevy
 
 In order for TOC Voting Members and TOC Contributors to join CDF TOC Meetings, an account on Bevy is required.
