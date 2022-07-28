@@ -18,7 +18,7 @@
 As documented on the [charter](https://github.com/cdfoundation/charter/blob/master/CHARTER.md#7-technical-oversight-committee-toc), the role of the CDF TOC is to facilitate communication and collaboration among the Technical Projects.
 The voting members of the TOC consists of nine members and voting members of the TOC will be elected or appointed, as applicable, to such positions.
 
-Additionally, community members can contribute to CDF TOC as [TOC Contributors](https://github.com/fdegir/cdf-toc-fdegir/blob/master/CONTRIBUTING.md#toc-contributors).
+Additionally, community members can contribute to CDF TOC as [TOC Contributors](https://github.com/cdfoundation/toc/blob/master/CONTRIBUTING.md#toc-contributors).
 
 This document provides few steps that are required by TOC Voting Members and TOC Contributors to follow in order to contribute to the TOC and ease their onboarding experience.
 
@@ -32,6 +32,10 @@ CDF repositories, including the TOC repository, is hosted on GitHub under [CDFou
 In order for you to contribute to CDF TOC or any other CDF repository either as a voting member or TOC Contributor, you must have an account on GitHub.
 You can create a GitHub account by following [this link](https://github.com/join).
 
+CDF TOC Voting Members will be added to **toc** GitHub Team upon completion of elections.
+Similarly, CDF TOC Contributors will be added to **toc-contributors** GitHub Team when a new community members joins as a TOC Contributor.
+It is important to make sure your GitHub handles are documented on [TOC Readme](https://github.com/cdfoundation/toc#members) and [TOC Contributors](https://github.com/cdfoundation/toc/blob/master/CONTRIBUTORS.md).
+
 As a CDF TOC Voting Member or CDF TOC Contributor, [CDF TOC repository](https://github.com/cdfoundation/toc) is where you will be spending most of your time so please keep an eye on/star/watch this repo.
 
 ### Google Docs
@@ -41,6 +45,9 @@ Some groups within CDF such as TOC use Google Docs for collaboration so it is im
 ### HackMD
 
 Some groups within CDF such as SIGs use [HackMD](https://hackmd.io/team/cdfoundation?nav=overview) so it would be beneficial for you to have an account on HackMD to contribute to the documents developed there.
+If you would like to join the CDF Team on HackMD, please create an issue in [Foundation repo](https://github.com/cdfoundation/foundation/issues).
+
+You can see the list of documented developed on HackMD using [this link](https://hackmd.io/@cdfoundation/Sy6QIeu3c).
 
 ## Communication
 
@@ -69,6 +76,9 @@ You can create an account on CDF Bevy using [this link](https://community.cd.fou
 Please make sure to complete your profile, including your fullname, title, and affiliation.
 
 Once you created your account on Bevy, please run a [pre-call test](https://tokbox.com/developer/tools/precall/) to make sure you are all set for your first meeting.
+Some community members reported that Bevy might behave strangely if you have multiple cameras.
+If you experience issues and have multiple cameras, you might want to try disabling all the cameras except the one you will be using during the meetings that take place on Bevy.
+
 ### Meeting Calendar
 
 All CDF Community Meetings are listed on [CDF Public Calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24%40group.calendar.google.com&ctz=UTC)(Note the timezone which is UTC.)
