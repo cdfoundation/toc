@@ -12,16 +12,16 @@ with a longer but reasonable grace period for legal actions like trademark and p
 
 ## Technical & Infrastructure
 
-   * Domain Transfer - project-related domains should be transferred to the Linus Foundation via an issue created here https://jira.linuxfoundation.org/plugins/servlet/theme/portal/2/group/19
-   * Github Repos - project-related repositories must be located in a neutral LF Github organization. The current GitHub organization owner must invite the user "thelinuxfoundation" (no quotes) as an owner.  GitHub’s documentation for how to do that is here: https://docs.github.com/en/organizations/managing-organization-settings/transferring-organization-ownership 
-   * Zoom account - projects may request a zoom sub-account for scheduling community meetings. Please submit a ticket to CDF Helpdesk, identifying key community members who should have access. 
- 
+   * Domain Transfer - project-related domains should be transferred to the Linux Foundation via an issue created here https://jira.linuxfoundation.org/plugins/servlet/theme/portal/2/group/19
+   * Github Repos - project-related repositories must be located in a neutral LF Github organization. The current GitHub organization owner must invite the user "thelinuxfoundation" (no quotes) as an owner.  GitHub’s documentation for how to do that is here: https://docs.github.com/en/organizations/managing-organization-settings/transferring-organization-ownership
+   * Zoom account - projects may request a zoom sub-account for scheduling community meetings. Please submit a ticket to [CDF Helpdesk](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/2/group/19), identifying key community members who should have access.
+
 
 ## Legal
 
-  * Any registered marks for the project must be transferred to the Linux Foundation. 
+  * Any registered marks for the project must be transferred to the Linux Foundation.
 
-## Outreach & Marketing 
+## Outreach & Marketing
 
   * A press release announcing the new project will be put out by CDF. Please identify key messaging and community members to provide quotes and email pr@cd.foundation
   * Podcast - projects are welcome to do a kickoff episode on The Pipeline Podcast, more detail here: https://cd.foundation/podcast/
