@@ -9,4 +9,4 @@ Kara de la Marck | CDF | Linux Foundation, CDF Interoperability SIG, codebar.io 
 Roxanne Joncas | CDF | Linux Foundation | [@zestyroxy](https://github.com/zestyroxy) | |
 Sudhindra Rao | JFrog | Pyrsia Core team | [@betarelease](https://github.com/betarelease) | |
 Terry Cox | Bootstrap | CDF MLOps SIG, CDF Best Practices SIG | [@tdcox](https://github.com/tdcox) | |
-
+Brad McCoy | Basiq | CDEvents, Ortelius, Keptn | [@bradmccoydev](https://github.com/bradmccoydev) | |
