@@ -2,7 +2,7 @@
 
 ## Introduction
 
-(...)
+Tekton is a powerful and flexible open-source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premise systems. Get started with Tekton.
 
 ## Criteria
 
@@ -37,6 +37,18 @@ Criteria:
 
 Criteria:
 - Have achieved and maintained an OpenSSF Best Practices Badge.
+
+Badges:
+
+| Project | Badge |
+|---------|-------|
+| Pipeline | [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4020/badge)](https://bestpractices.coreinfrastructure.org/projects/4020) |
+| Triggers | [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6527/badge)](https://bestpractices.coreinfrastructure.org/projects/6527) |
+| Chains | [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6408/badge)](https://bestpractices.coreinfrastructure.org/projects/6408) |
+| Dashboard | [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6543/badge)](https://bestpractices.coreinfrastructure.org/projects/6543) |
+| CLI | [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6510/badge)](https://bestpractices.coreinfrastructure.org/projects/6510) |
+| Operator | [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6548/badge)](https://bestpractices.coreinfrastructure.org/projects/6548) |
+
 
 ### C7 Release Cycles and LTS ✔ 
 
