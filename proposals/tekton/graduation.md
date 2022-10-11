@@ -92,7 +92,7 @@ Evidence:
 - [Triggers Release Cadence and Process]() - coming soon
 - [Chains Release Cadence and Process]() - coming soon
 - [Dashboard Release Cadence and Process](https://github.com/tektoncd/dashboard/blob/main/releases.md)
-- [Operator Release Cadence and Process]() - [coming soon](https://github.com/tektoncd/operator/pull/1104)
+- [Operator Release Cadence and Process](https://github.com/tektoncd/operator/blob/main/releases.md)
 - [CLI Release Cadence and Process]() - coming soon
 
 ### C3 Committers from 2+ Orgs ✔
