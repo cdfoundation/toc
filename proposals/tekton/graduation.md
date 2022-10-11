@@ -89,7 +89,7 @@ Evidence:
 - [Community Wide Release Process](https://github.com/tektoncd/community/blob/main/releases.md)
 
 - [Pipeline Release Cadence and Process](https://github.com/tektoncd/pipeline/blob/main/releases.md)
-- [Triggers Release Cadence and Process]() - [coming soon](https://github.com/tektoncd/triggers/pull/1461)
+- [Triggers Release Cadence and Process](https://github.com/tektoncd/triggers/blob/main/releases.md)
 - [Chains Release Cadence and Process]() - coming soon
 - [Dashboard Release Cadence and Process](https://github.com/tektoncd/dashboard/blob/main/releases.md)
 - [Operator Release Cadence and Process](https://github.com/tektoncd/operator/blob/main/releases.md)
