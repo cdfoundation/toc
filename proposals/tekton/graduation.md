@@ -75,7 +75,7 @@ Evidence:
 | Andrea Frittoli                            |    IBM     | [afrittoli](https://github.com/afrittoli)     | [@Andrea Frittoli](https://tektoncd.slack.com/team/UJ411P2CC) | Feb 2022   | Feb 2024 |
 | Dibyo Mukherjee                            |   Google   | [dibyom](https://github.com/dibyom)           | [@Dibyo Mukherjee](https://tektoncd.slack.com/team/UJ73HM7PZ) | Feb 2021   | Feb 2023 |
 
-### C2 Governance, Decision-Making and Release 🚧
+### C2 Governance, Decision-Making and Release
 
 Criteria: 
 - Have a documented and publicly accessible description of the project's
@@ -90,7 +90,7 @@ Evidence:
 
 - [Pipeline Release Cadence and Process](https://github.com/tektoncd/pipeline/blob/main/releases.md)
 - [Triggers Release Cadence and Process](https://github.com/tektoncd/triggers/blob/main/releases.md)
-- [Chains Release Cadence and Process]() - coming soon
+- [Chains Release Cadence and Process](https://github.com/tektoncd/chains/blob/main/releases.md)
 - [Dashboard Release Cadence and Process](https://github.com/tektoncd/dashboard/blob/main/releases.md)
 - [Operator Release Cadence and Process](https://github.com/tektoncd/operator/blob/main/releases.md)
 - [CLI Release Cadence and Process](https://github.com/tektoncd/cli/blob/main/releases.md)
