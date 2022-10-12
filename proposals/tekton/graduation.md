@@ -93,8 +93,7 @@ Evidence:
 - [Chains Release Cadence and Process]() - coming soon
 - [Dashboard Release Cadence and Process](https://github.com/tektoncd/dashboard/blob/main/releases.md)
 - [Operator Release Cadence and Process](https://github.com/tektoncd/operator/blob/main/releases.md)
-- [CLI Release Cadence and Process]() - coming soon
-
+- [CLI Release Cadence and Process](https://github.com/tektoncd/cli/blob/main/releases.md)
 ### C3 Committers from 2+ Orgs ✔
 
 Criteria: 
@@ -133,7 +132,7 @@ Evidence:
 - [Solarwind][solarwind-trebuchet]
 - [adopters.md][adopters]
 
-### C6 OpenSSF Best Practices Badge 🚧 
+### C6 OpenSSF Best Practices Badge ✔ 
 
 Criteria:
 - Have achieved and maintained an OpenSSF Best Practices Badge.
