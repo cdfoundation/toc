@@ -12,7 +12,7 @@ their CI/CD system through Tekton.
 
 This very flexibility has enabled Tekton to become the base for the
 implementation of more opinionated services on top, ranging from open source
-projects, cloud services as well as end-user platforms for DevOps services.
+projects, and cloud services as well as end-user platforms for DevOps services.
 
 The Tekton community benefits from a large and diverse community, with
 contributors from many different companies. The community features an open
@@ -29,24 +29,24 @@ Tekton cares a lot about security, both for the project as well as for its
 users:
 
 - Tekton has undergone a [security audit][security-audit]
-- Tekton has a vulnerability team and [security policy][security-policy]
+- Tekton has a vulnerability team and a [security policy][security-policy]
 - Tekton features a project, [Tekton Chains][chains], fully dedicated to
   providing security features for Tekton users, including integration with
   [Sigstore][sigstore]
 - The core Tekton projects have all achieved the [OpenSSF Best Practices
   badge][openssf-badge].
 
-Tekton uses Tekton for it's own build and release process, which also means that
+Tekton uses Tekton for its own build and release process, which also means that
 Tekton releases are signed through Sigstore, with attestation stored publicly,
-so that users may verify both the container images signatures as well as monitor
+so that users may verify both the container images' signatures as well as monitor
 the attestations. 
 
-Tekton follows documented release cycles, with a community wide [support
-policy][support-policy] which aligns with that of the Kubernetes and other
+Tekton follows documented release cycles, with a community-wide [support
+policy][support-policy] which aligns with that of Kubernetes and other
 projects in the ecosystem.
 
 The Tekton project is thriving within the Continuous Delivery Foundation,
-it has grown to [fullfil](#criteria) all [required criteria]
+it has grown to [fulfil](#criteria) all [required criteria]
 [tekton-graduation-criteria] and it would like to formally apply for graduation. 
 
 ## Criteria
