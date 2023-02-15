@@ -13,7 +13,11 @@ More details regarding SIG processes can be seen on [this link](https://github.c
 
 ## Current SIGS
 
-* [Security](https://github.com/cdfoundation/sig-security)
-* [MLOps](https://github.com/cdfoundation/sig-mlops)
-* [Interoperability](https://github.com/cdfoundation/sig-interoperability)
-* [Events](https://github.com/cdfoundation/sig-events)
+| Name | Area | TOC Sponsor | Slack Channel | Maillist |
+| -----|------|-------------|---------------|----------|
+| [MLOps](https://github.com/cdfoundation/sig-mlops) | Data and machine learning pipelines and model deployment. Standards, specifications, projects | N/A | [#sig-mlops](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg) | [sig-mlops@lists.cd.foundation](https://lists.cd.foundation/g/sig-mlops) |
+| [Interoperability](https://github.com/cdfoundation/sig-interoperability) | Interoperability across CI/CD tools and technologies. Standards, specifications, projects | [Dan Lorenc](https://github.com/dlorenc) | [#sig-interoperability](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg) | [sig-interoperability@lists.cd.foundation](https://lists.cd.foundation/g/sig-interoperability) |
+| [Events](https://github.com/cdfoundation/sig-events) | This group is looking at how events can help to create CI/CD systems with a decoupled architecture that is easy to scale and makes it resilient to failures | [Isaac Mosquera](https://github.com/imosquera) | [#sig-events](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg) | [sig-events@lists.cd.foundation](https://lists.cd.foundation/g/sig-events) |
+| [Best Practices](https://github.com/cdfoundation/sig-best-practices) | Capturing and distributing the various best practices that have been acquired over the years by member organizations | N/A | [#sig-bestpractices](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg) | [sig-best-practices@lists.cd.foundation](https://lists.cd.foundation/g/sig-best-practices) |
+| [Chinese Localization](https://github.com/cdfoundation/sig-chinese-localization) | UI related projects, website, local culture or events | [Oleg Nenashev](https://github.com/oleg-nenashev) | [#sig-chinese-localization](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg) | [sig-chinese-localization@lists.cd.foundation](https://lists.cd.foundation/g/sig-chinese-localization) |
+| [Software Supply Chain](https://github.com/cdfoundation/sig-software-supply-chain) | Contributing to Software Supply Chain Initiatives from CI/CD process, tool, and system perspectives | [Melissa McKay](https://github.com/mjmckay) | [#sig-software-supply-chain](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg) | [sig-software-supply-chain@lists.cd.foundation](https://lists.cd.foundation/g/sig-software-supply-chain) |
