@@ -21,3 +21,8 @@ More details regarding SIG processes can be seen on [this link](https://github.c
 | [Best Practices](https://github.com/cdfoundation/sig-best-practices) | Capturing and distributing the various best practices that have been acquired over the years by member organizations | | [#sig-bestpractices](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg) | [sig-best-practices@lists.cd.foundation](https://lists.cd.foundation/g/sig-best-practices) |
 | [Chinese Localization](https://github.com/cdfoundation/sig-chinese-localization) | UI related projects, website, local culture or events | [Oleg Nenashev](https://github.com/oleg-nenashev) | [#sig-chinese-localization](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg) | [sig-chinese-localization@lists.cd.foundation](https://lists.cd.foundation/g/sig-chinese-localization) |
 | [Software Supply Chain](https://github.com/cdfoundation/sig-software-supply-chain) | Contributing to Software Supply Chain Initiatives from CI/CD process, tool, and system perspectives | [Melissa McKay](https://github.com/mjmckay) | [#sig-software-supply-chain](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg) | [sig-software-supply-chain@lists.cd.foundation](https://lists.cd.foundation/g/sig-software-supply-chain) |
+
+
+## Archived SIGs
+
+* [Security](https://github.com/cdfoundation/sig-security)
