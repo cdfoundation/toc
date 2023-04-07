@@ -20,7 +20,7 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 
 - Jithin Emmanuel, [@jithine](https://github.com/jithine), (Screwdriver, Yahoo) - 1 July 2021 to 30 June 2023 [Elected project seat]
 - Andrea Frittoli, [@afrittoli](https://github.com/afrittoli), (Tekton, IBM) - 1 July 2021 to 30 June 2023 [Elected project seat]
-- Oleg Nenashev, [@oleg-nenashev](https://github.com/oleg-nenashev), (Jenkins/Keptn) - 1 July 2021 to 30 June 2023 [Elected project seat]
+- Oleg Nenashev, [@oleg-nenashev](https://github.com/oleg-nenashev), (Jenkins/WireMock/OpenFeature, WireMock Inc) - 1 July 2021 to 30 June 2023 [Elected project seat]
 - Steve Taylor, [@sbtaylor15](https://github.com/sbtaylor15), (Ortelius, DeployHub) -  1 July 2021 to 30 June 2023 [Elected project seat]
 - Justin Abrahms, [@justinabrahms](https://github.com/justinabrahms), (eBay) - May 1, 2022 to May 1, 2023 [Elected End User Seat]
 - Emil Bäckmark, [@e-backmark-ericsson](https://github.com/e-backmark-ericsson), (Ericsson) - May 1, 2022 to May 1, 2023 [Elected End User Seat]
