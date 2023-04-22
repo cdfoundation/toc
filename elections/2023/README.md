@@ -24,6 +24,8 @@ such other matters related to the technical role of the TOC as may be communicat
 
 ## End User Representative Elections
 
+Two (2) CDF Elected End User Seats are up for election for one (1) year term, 1 May 2023 through 1 May 2024.
+
 ### Timeline
 
 | Date    | Event                         | Details
