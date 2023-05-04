@@ -69,7 +69,7 @@ Elections will be held using time-limited, [ranked voting](https://www.opavote.c
 
 ## Project Representative Elections
 
-Four (4) CDF Elected Project Representative Seats are up for election for one (2) years term, 1 July 2023 to 30 June 2025.
+Four (4) CDF Elected Project Representative Seats are up for election for two (2) years term, 1 July 2023 to 30 June 2025.
 
 ### Timeline
 
