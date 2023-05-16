@@ -78,7 +78,7 @@ Four (4) CDF Elected Project Representative Seats are up for election for two (2
 | May 4   | Election Process starts           | CDF TOC Project Representatives are notified regarding the start of election process
 | May 15  | List of eligible voters published | List of eligible voters is determined using LFX Insights and announced
 | May 15  | Voter Registration opens          | Opening date to register to vote
-| May 22  | Project Nominations open          | Start of projects nominating their candidates in GitHub CDF Foundation Repo
+| May 22  | Project Nominations open          | Start of projects nominating their candidates in GitHub CDF 'foundation' Repo
 | May 26  | Voter Registration closes         | Closing date to register to vote
 | June 5  | Project Nominations close         | Last date for projects to nominate their candidates
 | June 8  | Candidates announced              | Nominated candidates are announced
@@ -89,7 +89,7 @@ Four (4) CDF Elected Project Representative Seats are up for election for two (2
 
 ### Candidates Eligibility
 
-Eeach CDF project nominates one (1) representative to run for a project seat.
+Each CDF project nominates one (1) representative to run for a project seat.
 The candidate should meet the criteria listed below and ideally will be part of the projects governing board or technical steering committee (but this is not a strict requirement).
 
 * commit that they have the available bandwidth to make the time to invest in the CDF TOC
@@ -103,7 +103,7 @@ Each project is free to choose its candidate in whichever manner fits best for t
 
 [CDF TOC Project Representatives](https://github.com/cdfoundation/toc/blob/main/CONTRIBUTORS.md#project-representatives) will be contacted to nominate their candidate.
 Additionally, the start of the election process will be announced on corresponding maillists (e.g., cdf-toc) as well as CDF Slack.
-The nominations must be made under corresponding GitHub Issue in the [CDF GitHub Foundation repository](https://github.com/cdfoundation/foundation/issues).
+The nominations must be made under corresponding GitHub issue in the [CDF foundation repository](https://github.com/cdfoundation/foundation/issues).
 The issue will become available on May 22, 2023.
 
 ### Voter Eligibility
@@ -115,14 +115,13 @@ Eligible voters will be
 * people who have submitted [the voter registration form](https://docs.google.com/forms/d/e/1FAIpQLSdsxCadKwauQ4EHjaNihGtVQJQ027ECsXBZACU7WqXm4dBMCw/viewform) and are accepted by the election officers.
   * This is to ensure we have voters whose contributions may not be captured through the above methodology. Individuals are able to submit voter form on behalf of other individuals.
 
-The list of eligible voters will be published in **voters.md** file on May 15, 2023.
+The list of eligible voters is available in [voters.md](voters.md).
 
 ### Voting Process
 
-Individuals listed in **voters.md** and individuals who are accepted as voters by the election officers will receive a ballot via email.
+Individuals listed in [voters.md](voters.md) and individuals who are accepted as voters by the election officers will receive a ballot via email.
 If you are not on that list you can use [the voter registration form](https://docs.google.com/forms/d/e/1FAIpQLSdsxCadKwauQ4EHjaNihGtVQJQ027ECsXBZACU7WqXm4dBMCw/viewform) to ask to participate in the election.
 
-Elections will be held using time-limited, ranked voting via OPA Vote.
 Elections will be held using time-limited, [ranked voting](https://www.opavote.com/methods/ranked-choice-voting) via OPA Vote.
 
 The 4 top vote getters for project elections will be elected to the Project seats.
