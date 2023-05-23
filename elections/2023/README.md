@@ -103,8 +103,17 @@ Each project is free to choose its candidate in whichever manner fits best for t
 
 [CDF TOC Project Representatives](https://github.com/cdfoundation/toc/blob/main/CONTRIBUTORS.md#project-representatives) will be contacted to nominate their candidate.
 Additionally, the start of the election process will be announced on corresponding maillists (e.g., cdf-toc) as well as CDF Slack.
-The nominations must be made under corresponding GitHub issue in the [CDF foundation repository](https://github.com/cdfoundation/foundation/issues).
-The issue will become available on May 22, 2023.
+
+The nominations must be made under [this GitHub issue](https://github.com/cdfoundation/foundation/issues/442) in the [CDF foundation repository](https://github.com/cdfoundation/foundation).
+
+The nominations must contain the information below.
+
+* Name of the Candidate
+* Project which the Candidate is Nominated By
+* Candidate Title
+* Candidate Affiliation
+* Candidate Bio
+* Nomination Statement
 
 ### Voter Eligibility
 
