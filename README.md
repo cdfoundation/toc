@@ -15,6 +15,7 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 ## Governance
 
 - The [charter](https://github.com/cdfoundation/charter/blob/master/CHARTER.md) under which CDF operates
+- Additional [policies](./process) defined by the TOC
 
 ## Members
 
