@@ -1,5 +1,7 @@
 # Vacancies Policy
 
+These policy cover the cases of TOC members changing affiliation and temporarily or permanently leaving the TOC. For any case that cannot be resolved through this policy, the CDF Governing Board may decide how to proceed.
+
 ## Leave of Absence
 
 Any member of the TOC is welcome to take leave from being a TOC member, for any reason (which they are not required to disclose). The leave must be communicated to the other TOC members via an email to the TOC email list. The actions taken will depend on both of:
@@ -13,7 +15,7 @@ If the length of the leave is greater than 1/4 of the total term, or their seat 
 
 ## Stepping down
 
-If a TOC member is no longer able to perform the TOC duties, the TOC member must inform the TOC via an email to the TOC email list.
+If a TOC member is no longer able to perform the TOC duties, the TOC member must inform the TOC via an email to the [TOC email list][toc-ml].
 
 The candidate with the next most votes from the previous election for that seat will be offered the seat, provided that person otherwise qualifies to join the TOC. This process will continue until the seat is filled.
 
@@ -22,9 +24,10 @@ the person they are replacing, regardless of the length of that remainder.
 
 ## Change in affiliation
 
-If a TOC member moves companies, that member must notify the TOC via an email to the TSC email list. That TOC member may remain a member unless: 
+If a TOC member moves companies, that member must notify the TOC via an email to the [TOC email list][toc-ml]. That TOC member may remain a member unless: 
 
 * the move places the member in conflict with the TOC composition rules, or
 * the TOC member (at her/his determination) will no longer be able to perform their TOC duties. 
 
 [charter]: https://github.com/cdfoundation/charter/blob/master/CHARTER.md
+[toc-ml]: https://lists.cd.foundation/g/cdf-toc
