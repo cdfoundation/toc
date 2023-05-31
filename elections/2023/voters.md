@@ -345,3 +345,18 @@ the Election Officers elections@cd.foundation
 * Zbynek Konecny
 * Zhao Xiaojie
 * 永胜
+
+# Additional Voters
+
+Voter registration requests for the below community members were submitted by themselves or others and accepted as voters by the election
+officer Lori Lorusso after the review with CDF staff.
+
+* bhar19
+* dsanyika
+* ibu1224
+* kumada626
+* m-linner-ericsson
+* Saim Safdar
+* Tony Carrato
+* yk634
+* y-oksaku
