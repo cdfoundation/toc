@@ -125,3 +125,13 @@ This is the checklist for new SIGs
  * Create SIG playlist on Youtube
  * Announcement blog post/press release 
  * Recommend scheduling a podcast: https://cd.foundation/podcast/
+
+### SIG Archival Checklist
+
+* Archival must be agreed upon by the TOC
+* Move the SIG markdown in this repo from `sigs` to `sigs/archived`
+* Move the SIG in the `README.md` from ["current sigs"](./sigs/README.md#current-sigs) to ["archived sigs"](./sigs/README.md#archived-sigs)
+* Archive the GitHub repository (from the repository settings)
+* Archive the Slack channel
+* Archive mailing list
+* Remove access to the calendar for SIG co-chairs (unless they may keep because of other roles)
