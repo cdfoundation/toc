@@ -2,5 +2,5 @@
 
 - [Q1 2024](https://github.com/cdfoundation/toc/issues/211#issuecomment-1977667539)
 
-- [Q2_2024](./2024-q2.md)
+- [Q2 2024](./2024-q2.md)
 
