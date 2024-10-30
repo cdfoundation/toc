@@ -19,15 +19,15 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 
 ## Members
 
-- Alan Dong, [@adong](https://github.com/adong), (Screwdriver, Yahoo) - 1 July 2023 to 30 June 2025 [Elected project seat]
 - Andrea Frittoli, [@afrittoli](https://github.com/afrittoli), (Tekton, IBM) - 1 July 2023 to 30 June 2025 [Elected project seat]
+- Jason McIntosh, [i@jasonmcintosh](https://github.com/jasonmcintosh), (Spinnaker, Harness) - 15 Oct 2024 to 14 Oct 2026 [Elected project seat]
 - Mark Waite, [@MarkEWaite](https://github.com/MarkEWaite), (Jenkins, CloudBees) - 1 July 2023 to 30 June 2025 [Elected project seat]
-- Steve Taylor, [@sbtaylor15](https://github.com/sbtaylor15), (Ortelius, DeployHub) -  1 July 2023 to 30 June 2025 [Elected project seat]
-- Dadisi Sanyika, [@dsanyika](https://github.com/dsanyika), (Apple Inc.) - May 1, 2023 to May 1, 2024 [Elected End User Seat]
-- Neil McGonigle, [@McGon-Fid](https://github.com/McGon-Fid), (Fidelity Investments) - May 1, 2023 to May 1, 2024 [Elected End User Seat]
-- Melissa McKay, [@mjmckay](https://github.com/mjmckay), (JFrog) - 1 July 2021 to 01 July 2024 [Elected GB seat]
-- Robert Reeves, [@r2liquibase](https://github.com/r2liquibase),  (Liquibase) - 1 July 2022 to 01 July 2024 [Elected GB seat]
-- Tracy Ragan, [@tracyragan](https://github.com/tracyragan), (Ortelius, DeployHub) - 1 July 2022 to 01 July 2024 [Elected GB seat]
+- Tracy Ragan, [@tracyragan](https://github.com/tracyragan), (Ortelius, DeployHub) - 15 Oct 2024 to 14 Oct 2026 [Elected project seat]
+- Damian Curry, [@damiancurry](https://github.com/damiancurry), (NGINX Inc.) - 1 July 2024 to 30 June 2025 [Elected End User Seat]
+- Steve Taylor, [@sbtaylor15](https://github.com/sbtaylor15), (Ortelius, DeployHub) - 1 July 2024 to 30 June 2025 [Elected End User seat]
+- Benjamin Powell, [@xibz](https://github.com/xibz), (Apple) - 1 July 2024 to 30 June 2026 [Elected GB seat]
+- Carlos Tadeu Panato Jr, [@cpanato](https://github.com/cpanato), (Chainguard) - 1 July 2024 to 30 June 2026 [Elected GB seat]
+- Garima Bajpai, [@bajpaigarima](https://github.com/bajpaigarima), (DevOps Community of Practice) - 1 July 2024 to 30 June 2026 [Elected GB seat]
 
 ### TOC Contributors
 
@@ -51,6 +51,11 @@ See the list of TOC Contributors [here](./CONTRIBUTORS.md).
 - Emil Bäckmark (Ericsson) - 1 May 2022 - 1 May 2023 (Elected End User Seat)
 - Jithin Emmanuel (Screwdriver, Yahoo Inc) - 1 July 2021 to 30 June 2023 [Elected project seat]
 - Oleg Nenashev, (Jenkins/WireMock/OpenFeature, WireMock Inc) - 1 July 2021 to 30 June 2023 [Elected project seat]
+- Alan Dong, [@adong](https://github.com/adong), (Screwdriver, Yahoo) - 1 July 2023 to 30 June 2025 [Elected project seat]
+- Dadisi Sanyika, [@dsanyika](https://github.com/dsanyika), (Apple Inc.) - May 1, 2023 to May 1, 2024 [Elected End User Seat]
+- Neil McGonigle, [@McGon-Fid](https://github.com/McGon-Fid), (Fidelity Investments) - May 1, 2023 to May 1, 2024 [Elected End User Seat]
+- Melissa McKay, [@mjmckay](https://github.com/mjmckay), (JFrog) - 1 July 2021 to 01 July 2024 [Elected GB seat]
+- Robert Reeves, [@r2liquibase](https://github.com/r2liquibase),  (Liquibase) - 1 July 2022 to 01 July 2024 [Elected GB seat]
 
 Updated website for TOC: <https://cd.foundation/about/toc/>
 
