@@ -56,7 +56,9 @@ See the list of TOC Contributors [here](./CONTRIBUTORS.md).
 - Neil McGonigle, [@McGon-Fid](https://github.com/McGon-Fid), (Fidelity Investments) - May 1, 2023 to May 1, 2024 [Elected End User Seat]
 - Melissa McKay, [@mjmckay](https://github.com/mjmckay), (JFrog) - 1 July 2021 to 01 July 2024 [Elected GB seat]
 - Robert Reeves, [@r2liquibase](https://github.com/r2liquibase),  (Liquibase) - 1 July 2022 to 01 July 2024 [Elected GB seat]
-
+- Damian Curry, [@damiancurry](https://github.com/damiancurry), (NGINX Inc.) - 1 July 2024 to 30 June 2025 [Elected End User Seat]
+- Steve Taylor, [@sbtaylor15](https://github.com/sbtaylor15), (Ortelius, DeployHub) - 1 July 2024 to 30 June 2025 [Elected End User seat]
+  
 Updated website for TOC: <https://cd.foundation/about/toc/>
 
 ## Projects
