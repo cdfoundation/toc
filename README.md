@@ -24,7 +24,7 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 - Mark Waite, [@MarkEWaite](https://github.com/MarkEWaite), (Jenkins, CloudBees) - 1 July 2023 to 30 June 2025 [Elected project seat]
 - Tracy Ragan, [@tracyragan](https://github.com/tracyragan), (Ortelius, DeployHub) - 15 Oct 2024 to 14 Oct 2026 [Elected project seat]
 - Dan Johnson, , (Capital One) - 1 August 2025 to 31 July 2026 [Elected End User Seat]
-- Aravind Kannan, , (eBay) - 1 August 2025 to 31 July 2026 [Elected End User seat]
+- Aravind Kannan,[@arkannan](https://github.com/arkannan) , (eBay) - 1 August 2025 to 31 July 2026 [Elected End User seat]
 - Benjamin Powell, [@xibz](https://github.com/xibz), (Apple) - 1 July 2024 to 30 June 2026 [Elected GB seat]
 - Carlos Tadeu Panato Jr, [@cpanato](https://github.com/cpanato), (Chainguard) - 1 July 2024 to 30 June 2026 [Elected GB seat]
 - Garima Bajpai, [@bajpaigarima](https://github.com/bajpaigarima), (DevOps Community of Practice) - 1 July 2024 to 30 June 2026 [Elected GB seat]
