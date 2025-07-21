@@ -19,11 +19,11 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 
 ## Members
 
-- Andrea Frittoli, [@afrittoli](https://github.com/afrittoli), (Tekton, IBM) - 1 July 2023 to 30 June 2025 [Elected project seat]
-- Jason McIntosh, [i@jasonmcintosh](https://github.com/jasonmcintosh), (Spinnaker, Harness) - 15 Oct 2024 to 14 Oct 2026 [Elected project seat]
-- Mark Waite, [@MarkEWaite](https://github.com/MarkEWaite), (Jenkins, CloudBees) - 1 July 2023 to 30 June 2025 [Elected project seat]
+- Steve Taylor, [@sbtalor15](https://github.com/sbtaylor15), (Ortelius, DeployHub) - 1 August 2025 to 30 June 2026 [Elected project seat]
+- Jason Mcintosh, [i@jasonmcintosh](https://github.com/jasonmcintosh), (Spinnaker, Harness) - 15 Oct 2024 to 14 Oct 2026 [Elected project seat]
+- Basil Crow, [@basil](https://github.com/basil), (Jenkins) - 1 August 2025 to 30 June 2026 [Elected project seat]
 - Tracy Ragan, [@tracyragan](https://github.com/tracyragan), (Ortelius, DeployHub) - 15 Oct 2024 to 14 Oct 2026 [Elected project seat]
-- Dan Johnson, , (Capital One) - 1 August 2025 to 31 July 2026 [Elected End User Seat]
+- Dan Johnson, [@fl-max](https://github.com/fl-max), (Capital One) - 1 August 2025 to 31 July 2026 [Elected End User Seat]
 - Aravind Kannan,[@arkannan](https://github.com/arkannan) , (eBay) - 1 August 2025 to 31 July 2026 [Elected End User seat]
 - Benjamin Powell, [@xibz](https://github.com/xibz), (Apple) - 1 July 2024 to 30 June 2026 [Elected GB seat]
 - Carlos Tadeu Panato Jr, [@cpanato](https://github.com/cpanato), (Chainguard) - 1 July 2024 to 30 June 2026 [Elected GB seat]
