@@ -19,7 +19,7 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 
 ## Members
 
-- Andrea Frittoli, [@afrittoli](https://github.com/afrittoli), (Tekton,cdevents, Intel) - 5 August 2025 to 4 August 2027 [Elected project seat]
+- Andrea Frittoli, [@afrittoli](https://github.com/afrittoli), (Tekton, CDEvents, IBM) - 5 August 2025 to 4 August 2027 [Elected project seat]
 - Jason Mcintosh, [i@jasonmcintosh](https://github.com/jasonmcintosh), (Spinnaker, Harness) - 15 Oct 2024 to 14 Oct 2026 [Elected project seat]
 - Basil Crow, [@basil](https://github.com/basil), (Jenkins) - 1 August 2025 to 30 June 2027 [Elected project seat]
 - Tracy Ragan, [@tracyragan](https://github.com/tracyragan), (Ortelius, DeployHub) - 15 Oct 2024 to 14 Oct 2026 [Elected project seat]
