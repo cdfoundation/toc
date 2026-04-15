@@ -4,12 +4,16 @@ This folder includes various documents related to the [projects][cdf-projects] h
 
 - [CDEvents](cdevents)
 - [Jenkins](jenkins)
-- [JenkinsX](jenkinsx)
+- [JayeX](jayex)
 - [Ortelius](ortelius)
 - [Screwdriver](screwdriver)
-- [Shipwright](shipwright)
 - [Spinnaker](spinnaker)
-- [Tekton](tekton)
+
+The following project are not hosted by CDF any longer:
+
+- [Shipwright](_archived/shipwright)
+- [Tekton](_archived/tekton)
+
 
 ## Project Updates
 

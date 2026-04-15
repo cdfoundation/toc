@@ -4,7 +4,7 @@ Find out more about the role of TOC contributors [here](CONTRIBUTING.md#toc-cont
 
 Person | Organization | Other Affiliations | GitHub Username | Gitlab Username |
 -- | -- | -- | -- | -- |
-Ankit D Mohapatra | Dexai Robotics| Jenkins X maintainer | [@ankitm123](https://github.com/ankitm123) | |
+Ankit D Mohapatra | Dexai Robotics| JayeX maintainer | [@ankitm123](https://github.com/ankitm123) | |
 Kara de la Marck | CDF | Linux Foundation, CDF Interoperability SIG, codebar.io | [@MarckK](https://github.com/MarckK) | |
 Roxanne Joncas | CDF | Linux Foundation | [@zestyroxy](https://github.com/zestyroxy) | |
 Sudhindra Rao | JFrog | Pyrsia Core team | [@betarelease](https://github.com/betarelease) | |
@@ -19,11 +19,9 @@ Project | Person | GitHub Username
 -- | -- | --
 CDEvents | Emil Bäckmark | [@e-backmark-ericsson](https://github.com/e-backmark-ericsson)
 Jenkins | Oleg Nenashev | [@oleg-nenashev](https://github.com/oleg-nenashev)
-Jenkins X | Ankit D Mohapatra  | [@ankitm123](https://github.com/ankitm123)
+JayeX | Ankit D Mohapatra  | [@ankitm123](https://github.com/ankitm123)
 Ortelius | Steve Taylor | [@sbtaylor15](https://github.com/sbtaylor15)
 Pyrsia | Stephen Chin | [@steveonjava](https://github.com/steveonjava)
 Screwdriver | Vonny Jap | [@vonnyjap](https://github.com/vonnyjap)
-Shipwright | Enrique Encalada | [@qu1queee](https://github.com/qu1queee)
 Spinnaker | Cameron Motevasselani | [@link108](https://github.com/link108)
-Tekton | Andrea Frittoli | [@afrittoli](https://github.com/afrittoli)
 -- | -- | -- 
