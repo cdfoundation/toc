@@ -130,7 +130,7 @@ Incubating (with intent to graduate)
 CDF CI/CD Cybersecurity Special Interest Group (SIG)
 
 ## Proposed TOC Sponsor
-Tracy Ragan and Steve Taylor
+Tracy Ragan and Garima Bajpai
 
 ## Proposed Governance
 CI/CD Technical Oversight Committee (TOC)
