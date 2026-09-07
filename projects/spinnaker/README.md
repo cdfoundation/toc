@@ -1,6 +1,6 @@
 # Project Updates
 
-- [Q9 2026](2026-q2q3.md) - Q2 and Q3 updates
+- [Q3 2026](2026-q2q3.md) - Q2 and Q3 updates
 - [Q4 2026](2026-q1.md) - q4 of 2025 and q1 2026
 - [Q3 2025](2025-q3.md)
 - [Q2 2025](2025-q2.md) 
