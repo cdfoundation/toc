@@ -27,7 +27,7 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 - Nikunj Doshi, (Independent) - 1 August 2026 to 31 July 2027 [Elected End User Seat]
 - Vutukuri Sreenivas, (Hack2Skill) - 1 July 2026 to 30 June 2028 [Elected GB Seat]
 - Carlos Tadeu Panato Jr, [@cpanato](https://github.com/cpanato), (Chainguard) - 1 July 2026 to 30 June 2028 [Elected GB seat]
-- Stefan Spieker, (Schaeffler) - 1 July 2026 to 30 June 2028 [Elected GB Seat]
+- Stefan Spieker, [@StefanSpieker](https://github.com/StefanSpieker), (Schaeffler) - 1 July 2026 to 30 June 2028 [Elected GB Seat]
 
 ### TOC Contributors
 
