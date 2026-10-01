@@ -24,8 +24,8 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 - Basil Crow, [@basil](https://github.com/basil), (Jenkins) - 1 August 2025 to 30 June 2027 [Elected project seat]
 - Tracy Ragan, [@tracyragan](https://github.com/tracyragan), (Ortelius, DeployHub) - 15 Oct 2024 to 14 Oct 2026 [Elected project seat]
 - Dan Johnson, [@fl-max](https://github.com/fl-max), (Capital One) - 1 August 2026 to 31 July 2027 [Elected End User Seat]
-- Nikunj Doshi, (Independent) - 1 August 2026 to 31 July 2027 [Elected End User Seat]
-- Vutukuri Sreenivas, (Hack2Skill) - 1 July 2026 to 30 June 2028 [Elected GB Seat]
+- Nikunj Doshi, [@dn23nikunj](https://github.com/dn23nikunj), (Independent) - 1 August 2026 to 31 July 2027 [Elected End User Seat]
+- Vutukuri Sreenivas, [@cnu1812](https://github.com/cnu1812), (Hack2Skill) - 1 July 2026 to 30 June 2028 [Elected GB Seat]
 - Carlos Tadeu Panato Jr, [@cpanato](https://github.com/cpanato), (Chainguard) - 1 July 2026 to 30 June 2028 [Elected GB seat]
 - Stefan Spieker, [@StefanSpieker](https://github.com/StefanSpieker), (Schaeffler) - 1 July 2026 to 30 June 2028 [Elected GB Seat]
 
