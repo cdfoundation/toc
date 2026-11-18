@@ -8,6 +8,7 @@ This folder includes various documents related to the [projects][cdf-projects] h
 - [Ortelius](ortelius)
 - [Screwdriver](screwdriver)
 - [Spinnaker](spinnaker)
+- [CICD Cybersecurity Guide](CICD Cybersecurity Guide)
 
 The following project are not hosted by CDF any longer:
 
